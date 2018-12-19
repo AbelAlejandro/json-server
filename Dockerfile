@@ -1,13 +1,11 @@
-FROM node:latest
-MAINTAINER Abelardo
+FROM node:11.4.0
 
+RUN npm install -g sh
 RUN npm install -g json-server
 
 WORKDIR /data
 VOLUME /data
-COPY . /data
+COPY db.json /data
 
-EXPOSE 80
-ADD run.sh /run.sh
-ENTRYPOINT ["bash", "/run.sh"]
-CMD []
+EXPOSE 3000
+CMD json-server --watch db.json
