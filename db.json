@@ -1,0 +1,2676 @@
+{
+  "trips": [
+    {
+      "id": "5c17a4bbf2e75ea89786d5fb",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "cillum",
+      "subtitle": "Magna nostrud occaecat nisi incididunt nulla excepteur exercitation tempor nostrud. Tempor quis ex fugiat non et officia fugiat reprehenderit ullamco exercitation duis. Esse et adipisicing sunt esse. Dolore aliquip enim exercitation proident consectetur aute deserunt consectetur mollit velit. Anim incididunt anim fugiat laboris. Minim aliqua minim sunt enim nisi elit proident veniam tempor in et laboris ipsum ea. Sunt consequat consectetur ut sint minim duis irure.",
+      "description": "Nostrud eu excepteur veniam veniam nisi. Enim ullamco ea Lorem occaecat sunt culpa quis ea esse consectetur incididunt reprehenderit. Duis est occaecat proident anim non fugiat esse. Amet reprehenderit cupidatat irure ullamco eiusmod et.\n\nEa ullamco aute irure deserunt culpa est. Et labore aute incididunt sunt ex fugiat ex adipisicing. Dolore sint magna occaecat amet non anim consequat reprehenderit. Sunt nulla nostrud dolor qui quis. Ipsum nostrud excepteur pariatur non ex duis excepteur sit voluptate fugiat. Reprehenderit aliqua amet sint incididunt labore magna quis exercitation commodo est culpa mollit. Eiusmod consectetur laboris non dolor veniam nostrud qui aliqua mollit laboris magna sint laboris.",
+      "public": true,
+      "tags": [
+        "nulla",
+        "sint",
+        "velit",
+        "in",
+        "in"
+      ],
+      "seasons": "Summer",
+      "priceRating": "3.7185",
+      "price": "$918.75",
+      "likes": 57,
+      "copies": 61,
+      "user": {
+        "first": "Lily",
+        "last": "Mendoza"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Wednesday, May 21, 2014 6:21 AM",
+      "endDate": "Saturday, March 25, 2017 8:46 AM",
+      "activities": [
+        {
+          "title": "in",
+          "date": "Wednesday, February 10, 2016 9:59 PM",
+          "time": "Night",
+          "priceRating": "3.7982",
+          "price": "$957.20",
+          "description": "Esse id irure incididunt mollit eu commodo. Enim pariatur deserunt culpa magna id labore. Consequat sint mollit consequat sunt. Consequat velit veniam ipsum minim id quis do nostrud adipisicing aute fugiat. Laborum tempor duis ipsum dolore irure.",
+          "tags": [
+            "sunt",
+            "cillum",
+            "cupidatat",
+            "qui",
+            "nostrud"
+          ],
+          "rating": "1.867"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb0360e19ad77a3014",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "aliquip",
+      "subtitle": "Amet officia laborum amet excepteur sunt. Minim eu in officia sint sit Lorem consequat consequat. Quis nostrud et elit fugiat nulla ipsum occaecat non in anim occaecat voluptate cillum. Consequat velit mollit eiusmod incididunt id aliquip adipisicing consequat et. Reprehenderit in veniam minim eiusmod non ex eu est sint excepteur dolore. Eu ea sint sint sit anim ex et sit consequat laboris ullamco excepteur laborum elit.",
+      "description": "Duis ad ipsum aliqua excepteur reprehenderit aliqua quis consequat id et cillum est aliquip. Nulla et id cillum ut fugiat Lorem elit aliquip cupidatat nostrud ea Lorem. Anim reprehenderit dolore cillum officia mollit ut duis ea eu voluptate. Voluptate amet ullamco reprehenderit nostrud. Consequat commodo nostrud amet Lorem eiusmod enim quis consectetur quis et culpa. Dolor cupidatat ad veniam laboris commodo quis cillum nisi nostrud.\n\nNon incididunt tempor eiusmod eiusmod. Nisi aliqua nisi cupidatat laborum do ullamco anim ullamco eiusmod. Ipsum magna ea fugiat id duis non sint. Nisi ullamco ad consequat excepteur cupidatat. Tempor est nulla exercitation aute occaecat aliquip deserunt. Culpa voluptate amet tempor dolore magna irure sit dolor in exercitation.",
+      "public": false,
+      "tags": [
+        "dolor",
+        "deserunt",
+        "proident",
+        "minim",
+        "aliquip"
+      ],
+      "seasons": "Winter",
+      "priceRating": "0.2336",
+      "price": "$588.60",
+      "likes": 92,
+      "copies": 69,
+      "user": {
+        "first": "Landry",
+        "last": "Cameron"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": true,
+      "startDate": "Wednesday, October 3, 2018 9:19 PM",
+      "endDate": "Sunday, August 12, 2018 4:24 AM",
+      "activities": [
+        {
+          "title": "deserunt",
+          "date": "Saturday, July 12, 2014 1:48 AM",
+          "time": "Afternoon",
+          "priceRating": "3.3656",
+          "price": "$715.23",
+          "description": "Magna ex nisi velit nisi nisi laboris est duis velit aliqua proident ea. Do proident est officia irure fugiat do occaecat anim culpa proident labore consectetur pariatur tempor. Sunt ut nostrud labore dolor mollit consequat proident culpa enim. Excepteur aliqua laboris cupidatat laboris anim sit amet in labore.",
+          "tags": [
+            "occaecat",
+            "eu",
+            "veniam",
+            "adipisicing",
+            "voluptate"
+          ],
+          "rating": "0.9812"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb7227ac45243c5cc6",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "cupidatat",
+      "subtitle": "Sint irure officia culpa ipsum culpa non non esse voluptate cupidatat in elit. Esse fugiat ipsum aliquip ut elit laborum Lorem exercitation est amet velit nostrud velit adipisicing. Dolore incididunt excepteur minim anim consequat mollit. Deserunt quis sit nulla laboris elit cupidatat reprehenderit ullamco voluptate mollit. Culpa irure minim nostrud ea laboris. Cupidatat ullamco dolor aute voluptate et mollit do do sunt non duis in esse. Eiusmod elit quis eu incididunt reprehenderit nisi reprehenderit ipsum amet voluptate aliquip duis dolor.",
+      "description": "Reprehenderit magna exercitation enim magna ex eu pariatur est sunt eiusmod cupidatat voluptate tempor. Ipsum fugiat irure Lorem incididunt irure laborum occaecat. Non in culpa Lorem tempor Lorem cupidatat deserunt aute consectetur eiusmod consectetur ad aliqua. Culpa ad mollit ipsum cillum mollit ex deserunt labore proident ad pariatur adipisicing magna.\n\nCommodo reprehenderit velit consequat id id ipsum ut dolor magna proident commodo in. Ex velit occaecat adipisicing officia velit cupidatat aliqua non commodo esse duis ea in laboris. Et dolor pariatur minim et.",
+      "public": true,
+      "tags": [
+        "ipsum",
+        "id",
+        "veniam",
+        "magna",
+        "ullamco"
+      ],
+      "seasons": "Spring",
+      "priceRating": "4.1996",
+      "price": "$597.42",
+      "likes": 69,
+      "copies": 56,
+      "user": {
+        "first": "Erickson",
+        "last": "Macdonald"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": true,
+      "startDate": "Monday, February 19, 2018 4:14 PM",
+      "endDate": "Saturday, March 11, 2017 5:01 AM",
+      "activities": [
+        {
+          "title": "sunt",
+          "date": "Monday, November 14, 2016 3:42 PM",
+          "time": "Morning",
+          "priceRating": "0.2742",
+          "price": "$885.37",
+          "description": "Id amet Lorem reprehenderit consequat elit cupidatat irure culpa aute eiusmod elit irure. Voluptate velit consequat veniam laboris sunt. Deserunt ipsum fugiat qui commodo duis pariatur non ea consectetur mollit. Ex excepteur aute quis anim nisi ut ipsum amet.",
+          "tags": [
+            "amet",
+            "duis",
+            "veniam",
+            "do",
+            "enim"
+          ],
+          "rating": "4.6179"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbf7f9828a425b1ff9",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "qui",
+      "subtitle": "Nostrud enim commodo elit sint est consequat aliqua duis. Reprehenderit occaecat nostrud nostrud eiusmod consectetur ad do magna. Exercitation deserunt voluptate ad proident ipsum laboris esse veniam dolore ipsum nisi nisi.",
+      "description": "In pariatur cupidatat cillum dolor velit deserunt proident est incididunt aliquip excepteur fugiat aliqua. Incididunt aliqua amet dolore est duis fugiat ea tempor mollit est ad. Aliqua officia consequat ad et enim velit est eu.\n\nTempor aliqua reprehenderit Lorem anim officia culpa elit do minim irure ad. Pariatur eu enim velit et cillum aliquip reprehenderit ullamco magna anim consectetur ipsum. Nostrud aliquip ex incididunt est tempor dolor fugiat magna mollit occaecat labore laborum quis. Amet nulla cillum consequat adipisicing sunt sint minim culpa id quis ipsum.",
+      "public": false,
+      "tags": [
+        "duis",
+        "sint",
+        "excepteur",
+        "aute",
+        "esse"
+      ],
+      "seasons": "Winter",
+      "priceRating": "0.6327",
+      "price": "$862.55",
+      "likes": 76,
+      "copies": 54,
+      "user": {
+        "first": "Mcbride",
+        "last": "Neal"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Wednesday, April 13, 2016 12:11 PM",
+      "endDate": "Tuesday, June 2, 2015 8:14 AM",
+      "activities": [
+        {
+          "title": "sint",
+          "date": "Monday, June 18, 2018 10:16 AM",
+          "time": "Morning",
+          "priceRating": "2.3312",
+          "price": "$239.33",
+          "description": "Quis non adipisicing exercitation sint irure velit laborum. Amet anim proident minim reprehenderit esse amet pariatur. Occaecat elit aliquip ipsum non proident est.",
+          "tags": [
+            "id",
+            "veniam",
+            "enim",
+            "voluptate",
+            "pariatur"
+          ],
+          "rating": "3.2765"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb319e4e90cdf92265",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "consectetur",
+      "subtitle": "Est cupidatat ea velit deserunt voluptate cillum mollit cillum exercitation velit. Nulla consectetur dolor mollit proident Lorem sunt. Sint tempor nulla minim esse. Commodo voluptate deserunt in elit velit magna consectetur qui cillum veniam. Sint magna reprehenderit ullamco ad ipsum.",
+      "description": "Labore cupidatat duis sit ea ad id deserunt ea aliquip amet velit officia anim. Reprehenderit ut sint consequat excepteur. Nisi reprehenderit labore proident nulla do ullamco proident occaecat cillum. Dolor magna occaecat eu reprehenderit. Duis esse nisi sit labore excepteur ipsum ad consectetur minim velit minim adipisicing. Voluptate minim laborum ut laboris sit veniam consequat excepteur nulla ad elit labore nostrud.\n\nTempor cupidatat voluptate laborum id laboris. Minim quis nisi occaecat consectetur deserunt ad sit laborum dolor cupidatat veniam voluptate sunt laboris. Tempor reprehenderit esse nulla veniam consectetur. Sit sunt minim minim excepteur culpa aute minim nulla sunt commodo culpa. Consequat sunt ea proident non elit non nisi sunt est aute magna dolore veniam.",
+      "public": false,
+      "tags": [
+        "voluptate",
+        "sit",
+        "Lorem",
+        "non",
+        "excepteur"
+      ],
+      "seasons": "Summer",
+      "priceRating": "2.6802",
+      "price": "$138.58",
+      "likes": 79,
+      "copies": 25,
+      "user": {
+        "first": "Rachael",
+        "last": "Payne"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Wednesday, June 8, 2016 7:49 PM",
+      "endDate": "Tuesday, December 23, 2014 8:20 AM",
+      "activities": [
+        {
+          "title": "eiusmod",
+          "date": "Wednesday, May 28, 2014 3:40 PM",
+          "time": "Night",
+          "priceRating": "3.2335",
+          "price": "$816.01",
+          "description": "Ad sint Lorem commodo qui qui duis duis cillum ullamco. Qui qui eiusmod eu ad do magna mollit ut amet duis do ex. Aliqua ullamco reprehenderit eu aliqua pariatur.",
+          "tags": [
+            "et",
+            "adipisicing",
+            "velit",
+            "aliqua",
+            "do"
+          ],
+          "rating": "1.8684"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbdf3d2c8d63b7cda1",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "eu",
+      "subtitle": "Eiusmod sint duis labore commodo et commodo. Nostrud pariatur ea ad consequat nisi dolore ut esse labore est. Dolore mollit incididunt duis aliqua irure cillum. Culpa ea culpa in est laborum eu labore voluptate consectetur labore labore consequat. Anim anim anim labore nulla occaecat aute commodo ea sint voluptate. Id ex sunt ex nostrud cupidatat officia pariatur. Non culpa eiusmod excepteur Lorem aliqua id enim ex nulla nulla commodo ad non.",
+      "description": "Adipisicing adipisicing labore esse dolore quis nostrud ad incididunt culpa exercitation fugiat ea laboris excepteur. Id non nulla ex occaecat exercitation excepteur proident qui ullamco in laborum Lorem elit. Fugiat reprehenderit tempor amet Lorem excepteur deserunt eiusmod eiusmod minim duis adipisicing elit aute.\n\nUllamco proident excepteur occaecat aliqua officia. Officia voluptate voluptate sint id aliqua nostrud consequat eu consectetur do officia non enim ex. Enim consequat culpa labore reprehenderit ex incididunt anim velit voluptate laboris labore pariatur. Duis est ad ullamco voluptate labore aliquip cupidatat adipisicing.",
+      "public": false,
+      "tags": [
+        "non",
+        "exercitation",
+        "amet",
+        "incididunt",
+        "dolor"
+      ],
+      "seasons": "Spring",
+      "priceRating": "1.5752",
+      "price": "$783.83",
+      "likes": 92,
+      "copies": 65,
+      "user": {
+        "first": "Thompson",
+        "last": "Pearson"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Tuesday, February 25, 2014 7:15 AM",
+      "endDate": "Friday, February 14, 2014 6:44 AM",
+      "activities": [
+        {
+          "title": "Lorem",
+          "date": "Monday, August 21, 2017 8:17 PM",
+          "time": "Afternoon",
+          "priceRating": "2.0911",
+          "price": "$911.45",
+          "description": "Velit proident aute quis id aute. Dolor sit voluptate incididunt consequat minim ullamco. Irure commodo elit incididunt ad exercitation sint duis laboris esse excepteur ad adipisicing. Ex exercitation enim eu excepteur duis. Non irure tempor esse do.",
+          "tags": [
+            "do",
+            "enim",
+            "adipisicing",
+            "aute",
+            "in"
+          ],
+          "rating": "2.4557"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbccf640756077acb9",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "laborum",
+      "subtitle": "Non in pariatur dolore eu Lorem esse eiusmod anim eiusmod culpa dolore non. Id qui voluptate magna consectetur dolor adipisicing. Ea irure eu sunt commodo deserunt aute officia. Duis eiusmod ea ipsum commodo excepteur enim.",
+      "description": "Labore quis in nisi deserunt deserunt ex ad duis ullamco dolore amet. Do amet voluptate esse sit reprehenderit ea est irure irure consectetur. Exercitation consequat fugiat irure occaecat.\n\nDeserunt do pariatur fugiat ex aliquip nulla. Cillum do ipsum labore exercitation cupidatat deserunt proident. Aute veniam esse amet ut veniam dolor id commodo cupidatat eu excepteur excepteur proident labore.",
+      "public": false,
+      "tags": [
+        "culpa",
+        "velit",
+        "voluptate",
+        "est",
+        "ipsum"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "4.1346",
+      "price": "$336.40",
+      "likes": 55,
+      "copies": 69,
+      "user": {
+        "first": "Sheena",
+        "last": "Copeland"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Wednesday, June 7, 2017 11:46 PM",
+      "endDate": "Wednesday, June 3, 2015 4:47 AM",
+      "activities": [
+        {
+          "title": "ipsum",
+          "date": "Tuesday, May 5, 2015 6:56 AM",
+          "time": "Morning",
+          "priceRating": "1.7286",
+          "price": "$950.91",
+          "description": "Veniam ea in in do id est nostrud proident sunt dolore tempor consectetur aliquip qui. Id dolor veniam commodo sit laboris non ex commodo fugiat. Aute officia excepteur minim reprehenderit dolore veniam enim. Reprehenderit voluptate dolor in deserunt. Minim deserunt consectetur sint commodo eiusmod. Aliquip ad commodo in occaecat labore. Ex ipsum ullamco eiusmod et commodo Lorem Lorem dolore proident dolor ad veniam.",
+          "tags": [
+            "consequat",
+            "laborum",
+            "reprehenderit",
+            "voluptate",
+            "sunt"
+          ],
+          "rating": "3.2973"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb3e429ce835df833d",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "eu",
+      "subtitle": "Est eiusmod quis ut reprehenderit ullamco et voluptate quis adipisicing ea esse esse. Cupidatat qui labore occaecat aliqua nulla ullamco ex aliquip labore duis ad commodo sit. Tempor et ipsum sit mollit labore et minim magna laboris deserunt labore est. Labore sint Lorem exercitation deserunt do mollit laborum cillum. Incididunt veniam ullamco ut cupidatat duis eu fugiat enim ea.",
+      "description": "Consectetur sit sint exercitation sit id. Est eu enim aute ullamco voluptate laboris est magna. Reprehenderit Lorem consectetur labore culpa consequat. Quis excepteur ex do exercitation magna sint laborum voluptate nisi tempor. Aliquip consectetur aliquip magna irure. Eiusmod id voluptate voluptate consectetur proident anim irure id aute voluptate.\n\nEiusmod ipsum reprehenderit qui cupidatat nostrud ea eiusmod quis cupidatat deserunt amet esse enim laboris. Occaecat velit proident veniam sit minim. Occaecat dolore deserunt id sit nostrud non officia cillum ex tempor non cillum non. Ea amet mollit ipsum ea nostrud consequat amet officia reprehenderit amet. Ullamco do est sunt duis incididunt excepteur sunt sunt enim ad. Quis anim cillum tempor aliqua ad consectetur aliquip minim irure mollit pariatur eu nisi nulla.",
+      "public": true,
+      "tags": [
+        "sit",
+        "velit",
+        "tempor",
+        "ea",
+        "nisi"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "1.9484",
+      "price": "$372.54",
+      "likes": 94,
+      "copies": 62,
+      "user": {
+        "first": "Nadia",
+        "last": "Rasmussen"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Monday, February 20, 2017 4:12 PM",
+      "endDate": "Monday, February 1, 2016 10:52 PM",
+      "activities": [
+        {
+          "title": "veniam",
+          "date": "Wednesday, August 17, 2016 3:52 PM",
+          "time": "Morning",
+          "priceRating": "3.692",
+          "price": "$509.48",
+          "description": "Tempor aliqua fugiat commodo cupidatat id tempor non sit ipsum velit veniam velit et. Cupidatat et aute nulla deserunt officia incididunt Lorem dolor cupidatat. Nisi exercitation voluptate cillum elit nulla sint nostrud esse labore irure mollit ut amet adipisicing. Minim deserunt officia ipsum laborum anim qui. Commodo ea enim dolor dolore eu minim nulla eu reprehenderit quis. Quis id consectetur laborum esse Lorem culpa sint nulla ullamco ad adipisicing laboris ex id.",
+          "tags": [
+            "duis",
+            "quis",
+            "duis",
+            "ad",
+            "nisi"
+          ],
+          "rating": "1.0882"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb8995183e05b43e6e",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "magna",
+      "subtitle": "Irure aute ut veniam ad voluptate ea cupidatat nisi. Ullamco est aute pariatur voluptate. Ut enim pariatur consectetur anim sit et veniam incididunt eu ad eu. Adipisicing exercitation ullamco in sunt. Nisi occaecat ullamco ad esse aute. Esse irure cillum aliqua veniam dolor pariatur adipisicing duis consectetur quis incididunt sunt deserunt. Tempor amet commodo pariatur dolore pariatur duis id in incididunt id.",
+      "description": "Et ut excepteur do ipsum excepteur velit velit duis nulla occaecat tempor enim. Duis tempor minim tempor sint fugiat sit occaecat sint non mollit in excepteur. Sit laborum enim in ut nostrud est ullamco aute. Voluptate nostrud do sit non. Dolore mollit fugiat dolor duis ea ut. Nostrud quis reprehenderit adipisicing ea officia excepteur. Anim reprehenderit cillum deserunt excepteur.\n\nOccaecat duis fugiat sit elit fugiat non eu commodo incididunt. Nostrud sint consectetur irure excepteur et. Anim officia anim voluptate aute occaecat incididunt commodo est consectetur nostrud. Excepteur et irure velit cillum velit eiusmod proident proident nostrud ea magna laboris sint. Labore veniam Lorem eiusmod magna aliqua in fugiat ullamco pariatur ullamco. Nulla ex eiusmod cupidatat qui ea irure incididunt.",
+      "public": true,
+      "tags": [
+        "laboris",
+        "irure",
+        "aute",
+        "cillum",
+        "enim"
+      ],
+      "seasons": "Winter",
+      "priceRating": "1.6972",
+      "price": "$200.08",
+      "likes": 76,
+      "copies": 56,
+      "user": {
+        "first": "Ochoa",
+        "last": "Crane"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Sunday, April 19, 2015 12:32 PM",
+      "endDate": "Thursday, August 11, 2016 10:52 PM",
+      "activities": [
+        {
+          "title": "adipisicing",
+          "date": "Tuesday, December 27, 2016 5:04 AM",
+          "time": "Afternoon",
+          "priceRating": "3.7375",
+          "price": "$212.75",
+          "description": "Occaecat in non adipisicing nulla proident eu irure nostrud pariatur consectetur consequat consequat. Commodo ea velit excepteur occaecat. Sint incididunt laborum fugiat tempor esse esse pariatur nostrud nostrud eiusmod. Nisi excepteur sint mollit ea exercitation consectetur reprehenderit exercitation reprehenderit amet ullamco cillum nostrud.",
+          "tags": [
+            "officia",
+            "proident",
+            "anim",
+            "duis",
+            "ullamco"
+          ],
+          "rating": "2.6106"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb3676fa7e656ad35d",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "do",
+      "subtitle": "Ex ex tempor dolor adipisicing eu. Tempor ea eu ullamco mollit ut ut Lorem tempor incididunt esse. Eu aliquip eiusmod mollit non ad aliqua do ex. Veniam mollit elit officia mollit do sunt elit. Aliqua elit duis adipisicing eiusmod ad proident pariatur Lorem sint non. Anim exercitation minim nostrud anim consectetur sint occaecat dolor quis veniam fugiat Lorem proident duis. Sint veniam minim sint laboris cillum velit.",
+      "description": "Cupidatat esse ea voluptate sunt velit laborum proident duis quis sunt ullamco aute cupidatat. Proident consectetur laboris ea incididunt veniam sint amet esse nisi. Ex veniam elit irure est fugiat eu proident fugiat cillum pariatur commodo laboris deserunt adipisicing. Enim esse amet cupidatat do commodo consequat. Excepteur aute fugiat sit irure exercitation officia ad amet ullamco pariatur ut amet aute. Irure anim deserunt dolor ad.\n\nMollit ad ipsum nostrud anim commodo. Nulla ex laboris occaecat officia ullamco. Officia anim anim sint quis amet do. Cupidatat aliquip exercitation qui occaecat ad in.",
+      "public": false,
+      "tags": [
+        "mollit",
+        "consequat",
+        "ipsum",
+        "cillum",
+        "aliqua"
+      ],
+      "seasons": "Winter",
+      "priceRating": "3.0631",
+      "price": "$256.86",
+      "likes": 56,
+      "copies": 53,
+      "user": {
+        "first": "Jessie",
+        "last": "Patterson"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": false,
+      "startDate": "Thursday, October 30, 2014 6:58 AM",
+      "endDate": "Monday, August 22, 2016 11:54 AM",
+      "activities": [
+        {
+          "title": "cillum",
+          "date": "Thursday, November 30, 2017 8:13 AM",
+          "time": "Afternoon",
+          "priceRating": "1.5412",
+          "price": "$432.19",
+          "description": "Pariatur Lorem ex ex amet. Pariatur pariatur tempor consequat eiusmod id Lorem. Excepteur eu do aliqua labore aliqua tempor tempor id. Esse consectetur Lorem voluptate magna sint nostrud occaecat voluptate dolore dolor irure magna. Veniam do velit tempor proident sit cupidatat. Reprehenderit velit quis labore ipsum id amet. Ex proident cupidatat adipisicing ipsum reprehenderit eiusmod eiusmod sint ut enim laboris eu eiusmod.",
+          "tags": [
+            "laboris",
+            "ut",
+            "elit",
+            "esse",
+            "qui"
+          ],
+          "rating": "1.6971"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbf96f3c369b507aea",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "non",
+      "subtitle": "Adipisicing aliquip ex magna et laboris cillum voluptate dolore labore ex elit Lorem velit. In enim laboris ut in non eiusmod exercitation laboris adipisicing Lorem eu occaecat ullamco incididunt. Ea ullamco veniam nulla ad nostrud elit esse irure elit aliqua.",
+      "description": "Ipsum irure excepteur consequat ea veniam ipsum anim duis laborum magna proident esse. Excepteur consectetur nisi non exercitation consectetur. Adipisicing eiusmod aliquip do consequat duis Lorem Lorem aute voluptate voluptate proident do. Quis sunt proident tempor et sint incididunt do fugiat officia ullamco laborum aliqua. Sit dolore eu minim proident ut est veniam consectetur. Consequat est mollit nostrud ullamco aliquip.\n\nSit minim excepteur incididunt pariatur. Exercitation pariatur dolore aliquip sit nostrud dolor qui ex labore consectetur officia ea. Ad officia est qui occaecat enim in occaecat excepteur velit cupidatat eu culpa Lorem in.",
+      "public": false,
+      "tags": [
+        "excepteur",
+        "veniam",
+        "elit",
+        "aliqua",
+        "proident"
+      ],
+      "seasons": "Winter",
+      "priceRating": "1.9826",
+      "price": "$866.66",
+      "likes": 96,
+      "copies": 59,
+      "user": {
+        "first": "Ann",
+        "last": "Bryant"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": false,
+      "startDate": "Sunday, February 23, 2014 11:10 PM",
+      "endDate": "Friday, April 21, 2017 6:38 PM",
+      "activities": [
+        {
+          "title": "tempor",
+          "date": "Saturday, January 3, 2015 11:31 PM",
+          "time": "Afternoon",
+          "priceRating": "3.3788",
+          "price": "$570.30",
+          "description": "Sunt amet nisi mollit cillum enim duis ipsum anim nostrud occaecat eu. Duis culpa qui anim aliquip aliqua sit nisi ut cillum. Dolore incididunt veniam nisi velit enim eu eiusmod consectetur et et duis consequat consequat. Consequat excepteur nulla laborum aute laboris nulla eiusmod Lorem ea incididunt cupidatat occaecat elit. Labore enim dolore ad nostrud tempor id enim irure est exercitation est in cupidatat quis.",
+          "tags": [
+            "sit",
+            "eiusmod",
+            "ea",
+            "id",
+            "minim"
+          ],
+          "rating": "1.4784"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb8597045fb5ccfc6d",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "officia",
+      "subtitle": "Velit amet cillum ullamco duis anim sit aute eiusmod. Pariatur fugiat ea voluptate consectetur. Et consectetur consequat laborum nostrud culpa mollit adipisicing. Eu sint voluptate duis incididunt nisi sint nisi. Labore in deserunt irure incididunt eiusmod id sint exercitation sit nulla irure ipsum qui.",
+      "description": "Cupidatat ea eu reprehenderit nostrud labore mollit Lorem ex pariatur cupidatat enim elit quis. Nisi non Lorem qui duis aliqua exercitation dolor non aliquip aliquip commodo commodo laboris dolor. Tempor dolore commodo nulla enim sit nulla laborum aliquip Lorem amet incididunt nulla reprehenderit. Nulla non excepteur dolor pariatur elit et enim incididunt enim minim anim. Id nostrud proident do id eiusmod quis magna occaecat velit fugiat laborum consectetur irure. Adipisicing adipisicing amet quis ex consectetur amet ea do incididunt laboris voluptate.\n\nNon sit nostrud magna ex. Ad ad ullamco occaecat eu aute incididunt. Est labore amet Lorem ipsum voluptate excepteur aliquip do.",
+      "public": false,
+      "tags": [
+        "incididunt",
+        "sit",
+        "irure",
+        "nisi",
+        "et"
+      ],
+      "seasons": "Winter",
+      "priceRating": "4.4837",
+      "price": "$333.66",
+      "likes": 67,
+      "copies": 65,
+      "user": {
+        "first": "Whitley",
+        "last": "Fowler"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Thursday, March 23, 2017 6:33 AM",
+      "endDate": "Tuesday, October 25, 2016 4:39 PM",
+      "activities": [
+        {
+          "title": "pariatur",
+          "date": "Thursday, December 4, 2014 10:09 AM",
+          "time": "Night",
+          "priceRating": "4.8101",
+          "price": "$799.54",
+          "description": "Aliquip duis et minim consequat cupidatat labore non aliquip cillum exercitation elit non occaecat. Eu nulla id excepteur incididunt sint. Tempor adipisicing quis nulla mollit.",
+          "tags": [
+            "in",
+            "magna",
+            "est",
+            "occaecat",
+            "ullamco"
+          ],
+          "rating": "4.2024"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbaed6784766ea8d72",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ex",
+      "subtitle": "Laboris dolore eiusmod consequat anim. Magna ad minim consectetur ipsum velit cillum reprehenderit duis ea aute fugiat mollit excepteur ipsum. Enim mollit nulla qui dolore. Enim minim labore Lorem reprehenderit irure commodo nisi. Ad eiusmod nostrud deserunt laboris cillum ex dolor eu anim. Voluptate eiusmod fugiat excepteur aliqua quis cupidatat reprehenderit reprehenderit anim quis.",
+      "description": "Cillum et Lorem non dolore laborum incididunt eu non et qui ex dolor aliqua pariatur. Officia duis ex deserunt in incididunt aliqua pariatur. Ea ullamco aliqua id magna irure fugiat Lorem pariatur aliquip id dolor sunt. Incididunt duis ea irure officia pariatur nisi.\n\nMollit anim minim irure dolore et id commodo Lorem enim. Velit exercitation duis ea sint incididunt sunt laborum consequat amet officia non. Proident aliqua consequat eu ipsum do. Aliqua nisi id commodo eu officia mollit excepteur nisi esse consectetur irure. Incididunt irure esse dolor ipsum enim sint.",
+      "public": false,
+      "tags": [
+        "ea",
+        "ex",
+        "elit",
+        "laborum",
+        "elit"
+      ],
+      "seasons": "Spring",
+      "priceRating": "3.0869",
+      "price": "$168.71",
+      "likes": 66,
+      "copies": 32,
+      "user": {
+        "first": "Rocha",
+        "last": "Vincent"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": false,
+      "startDate": "Sunday, October 28, 2018 12:35 AM",
+      "endDate": "Saturday, April 12, 2014 12:46 AM",
+      "activities": [
+        {
+          "title": "labore",
+          "date": "Sunday, October 14, 2018 11:56 PM",
+          "time": "Morning",
+          "priceRating": "2.8308",
+          "price": "$209.78",
+          "description": "Dolor quis minim ipsum magna culpa laborum exercitation id magna. Anim dolor proident pariatur eiusmod tempor minim nisi. Elit anim adipisicing dolor non nostrud irure tempor adipisicing ex eiusmod elit pariatur.",
+          "tags": [
+            "voluptate",
+            "reprehenderit",
+            "sint",
+            "pariatur",
+            "exercitation"
+          ],
+          "rating": "4.0522"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbf4c02d305985a95b",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "duis",
+      "subtitle": "Est ipsum commodo cupidatat sit nulla Lorem tempor occaecat in Lorem est. Adipisicing et culpa consequat aliqua qui Lorem eiusmod ad eu sunt ipsum culpa voluptate. Occaecat Lorem mollit dolor voluptate ex mollit qui consequat anim. Velit proident ad Lorem incididunt amet. Labore non culpa dolor adipisicing dolore aliqua amet minim ex exercitation nostrud. Consequat laborum veniam ullamco quis incididunt quis aliquip adipisicing duis ea irure.",
+      "description": "Proident pariatur reprehenderit laborum ullamco deserunt proident sunt et nostrud pariatur culpa magna ullamco. Nisi incididunt occaecat veniam amet tempor exercitation voluptate qui proident sint enim. Magna officia dolore qui est sunt dolore cupidatat minim mollit sint nulla.\n\nAmet incididunt id sit cupidatat exercitation dolore eiusmod. Veniam eu proident consectetur anim. Id anim nisi cillum et fugiat aliquip sint id reprehenderit pariatur do in. Sint deserunt aliqua do enim cupidatat mollit ad. Consequat Lorem amet laborum tempor ut est et velit non ipsum. Et nisi exercitation ea elit.",
+      "public": false,
+      "tags": [
+        "magna",
+        "tempor",
+        "sunt",
+        "occaecat",
+        "nulla"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "3.3605",
+      "price": "$841.94",
+      "likes": 58,
+      "copies": 68,
+      "user": {
+        "first": "Gomez",
+        "last": "Briggs"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Saturday, September 9, 2017 12:21 PM",
+      "endDate": "Thursday, October 12, 2017 12:05 PM",
+      "activities": [
+        {
+          "title": "sunt",
+          "date": "Thursday, August 31, 2017 10:50 AM",
+          "time": "Night",
+          "priceRating": "3.6856",
+          "price": "$356.81",
+          "description": "Proident aliqua Lorem cillum consequat laboris et ullamco eiusmod officia dolore. Velit consectetur aliqua culpa consectetur pariatur aute velit. Velit mollit ut ipsum cupidatat fugiat do velit. Deserunt amet occaecat nulla qui nisi ad dolor commodo sunt cillum qui in mollit. Laborum enim pariatur in cillum nulla quis dolor aute nulla cillum nisi reprehenderit minim.",
+          "tags": [
+            "nulla",
+            "reprehenderit",
+            "esse",
+            "occaecat",
+            "dolore"
+          ],
+          "rating": "0.5526"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbfa1fb99f50707bf1",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "qui",
+      "subtitle": "Proident aliqua eu minim duis sint ut veniam deserunt. Consectetur anim ad ipsum ut do do elit dolore ea dolor culpa elit. Labore aliqua duis sunt aute Lorem elit aliquip et. Non velit est sunt exercitation consequat duis cillum do.",
+      "description": "Officia sit id nulla Lorem commodo ipsum enim quis consequat exercitation excepteur amet non ipsum. Cupidatat veniam ut incididunt nulla excepteur aliquip. Duis magna consequat anim commodo ipsum et ut sit qui laboris. Sit nisi ex deserunt ea nisi non officia anim.\n\nIrure sunt non adipisicing consequat aliqua consequat est dolor eiusmod qui. Nostrud aliqua officia id nostrud et incididunt amet nulla. Nisi et aute consequat consectetur deserunt officia deserunt. Pariatur quis irure ullamco dolor labore eiusmod. Qui ea sit eiusmod nulla. Nisi minim velit occaecat enim in adipisicing magna consequat veniam in. Commodo Lorem minim dolor pariatur duis non esse consectetur dolore tempor et.",
+      "public": true,
+      "tags": [
+        "laborum",
+        "cillum",
+        "anim",
+        "minim",
+        "dolore"
+      ],
+      "seasons": "Summer",
+      "priceRating": "3.5976",
+      "price": "$648.81",
+      "likes": 66,
+      "copies": 25,
+      "user": {
+        "first": "May",
+        "last": "Blankenship"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Wednesday, July 12, 2017 11:48 PM",
+      "endDate": "Friday, October 12, 2018 1:45 AM",
+      "activities": [
+        {
+          "title": "deserunt",
+          "date": "Sunday, July 12, 2015 6:53 AM",
+          "time": "Night",
+          "priceRating": "0.8162",
+          "price": "$522.35",
+          "description": "Quis cupidatat eiusmod excepteur laboris labore aliqua mollit proident. Consequat est proident ut commodo consectetur quis irure deserunt cupidatat excepteur culpa. Irure aliqua adipisicing amet reprehenderit fugiat labore Lorem dolore eu qui.",
+          "tags": [
+            "laboris",
+            "ipsum",
+            "pariatur",
+            "do",
+            "fugiat"
+          ],
+          "rating": "2.9992"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb831ee6007923ba4f",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "duis",
+      "subtitle": "Duis adipisicing irure dolore adipisicing reprehenderit ea quis minim. Mollit Lorem amet fugiat non officia quis enim exercitation. Consectetur occaecat ullamco dolor officia amet.",
+      "description": "Elit ut reprehenderit dolor mollit. Aliqua do dolore elit occaecat voluptate ipsum quis adipisicing est culpa. Exercitation qui amet pariatur consequat cupidatat et velit voluptate in amet ad reprehenderit quis. Exercitation proident laborum adipisicing aliquip aliquip anim id culpa nulla deserunt ad.\n\nVeniam incididunt commodo est excepteur elit. Ea deserunt laboris laborum sunt sint sit officia aute esse cupidatat do. Enim laborum dolor ex commodo eiusmod ipsum eu.",
+      "public": true,
+      "tags": [
+        "ex",
+        "officia",
+        "quis",
+        "culpa",
+        "est"
+      ],
+      "seasons": "Spring",
+      "priceRating": "4.7102",
+      "price": "$355.75",
+      "likes": 93,
+      "copies": 29,
+      "user": {
+        "first": "Allison",
+        "last": "Whitley"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Wednesday, December 10, 2014 9:43 AM",
+      "endDate": "Friday, May 6, 2016 6:17 PM",
+      "activities": [
+        {
+          "title": "fugiat",
+          "date": "Friday, July 4, 2014 1:50 AM",
+          "time": "Morning",
+          "priceRating": "2.8638",
+          "price": "$765.70",
+          "description": "Fugiat dolore irure ad ea veniam voluptate laboris irure magna esse. Occaecat et mollit enim aliquip excepteur sint commodo adipisicing labore. Voluptate deserunt do quis culpa consectetur deserunt laborum in adipisicing minim. Enim tempor do incididunt quis ex.",
+          "tags": [
+            "consectetur",
+            "fugiat",
+            "ullamco",
+            "veniam",
+            "cupidatat"
+          ],
+          "rating": "4.6446"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbfa1eab660b0ea50e",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "dolore",
+      "subtitle": "In sint est culpa culpa duis ut est cillum. Esse aliqua non non sint Lorem labore in. Consectetur adipisicing id aute ad exercitation. Duis enim aliquip incididunt magna occaecat. Commodo laboris consequat mollit dolor.",
+      "description": "Sit amet qui aliquip cupidatat mollit enim adipisicing fugiat officia non pariatur. Deserunt magna esse excepteur Lorem aliqua anim elit esse. Aute eiusmod duis laborum Lorem ipsum occaecat adipisicing laborum commodo ad. Nostrud proident labore ipsum commodo consequat officia incididunt voluptate proident aliquip sint. Est quis non ullamco dolore in. Ullamco fugiat culpa tempor amet excepteur et elit do proident. Magna adipisicing veniam irure duis veniam ipsum excepteur cupidatat.\n\nDeserunt tempor occaecat anim elit amet mollit cillum eu amet. Pariatur ullamco in ex dolore laborum. Fugiat qui incididunt aliquip voluptate in dolore veniam minim eiusmod officia et sint fugiat excepteur. Nisi sit cupidatat aliquip qui eiusmod proident anim velit aliqua cillum ipsum ex. Adipisicing qui minim excepteur elit officia tempor.",
+      "public": true,
+      "tags": [
+        "ut",
+        "voluptate",
+        "in",
+        "dolor",
+        "enim"
+      ],
+      "seasons": "Winter",
+      "priceRating": "4.7193",
+      "price": "$762.40",
+      "likes": 92,
+      "copies": 61,
+      "user": {
+        "first": "Kelley",
+        "last": "Hansen"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Wednesday, November 21, 2018 7:20 AM",
+      "endDate": "Sunday, March 23, 2014 9:10 AM",
+      "activities": [
+        {
+          "title": "duis",
+          "date": "Friday, October 17, 2014 1:55 PM",
+          "time": "Morning",
+          "priceRating": "4.5466",
+          "price": "$624.59",
+          "description": "Cupidatat proident quis in est et non. Incididunt eiusmod tempor do amet duis ex labore minim dolore qui aliquip laboris eu. In pariatur tempor dolore fugiat ut sint do officia ut sunt sint est id.",
+          "tags": [
+            "culpa",
+            "duis",
+            "non",
+            "dolor",
+            "sint"
+          ],
+          "rating": "4.8027"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbe7a4af4b2dd9e9da",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "nisi",
+      "subtitle": "Commodo voluptate pariatur dolore cillum labore laborum aliquip velit. Tempor est sunt duis do ipsum velit Lorem laborum est voluptate sint non reprehenderit aliqua. Ipsum ullamco cupidatat quis aliqua. Ea tempor enim incididunt proident mollit aliqua anim fugiat Lorem. Ea incididunt cupidatat fugiat commodo culpa ut proident cillum duis commodo elit est. Enim anim aute id dolor nostrud qui quis laborum. Aliqua officia commodo dolore magna id exercitation velit labore officia nisi dolore tempor.",
+      "description": "Enim fugiat ullamco aliquip nisi excepteur elit adipisicing aliquip irure dolor id quis. Dolore adipisicing pariatur Lorem elit. Cupidatat exercitation consectetur fugiat pariatur exercitation laboris mollit consectetur. Anim in laboris reprehenderit culpa ut tempor. Elit ad ipsum anim incididunt pariatur elit nisi culpa amet in elit qui in.\n\nEsse dolore labore eiusmod quis. In dolore veniam consectetur officia. Mollit eiusmod excepteur occaecat tempor sunt Lorem voluptate duis adipisicing. Nostrud consectetur sint proident do eu mollit deserunt aliqua aliquip est deserunt. Et ut et sunt deserunt et. Officia sint dolor Lorem ea consectetur amet reprehenderit proident fugiat duis.",
+      "public": false,
+      "tags": [
+        "laborum",
+        "minim",
+        "magna",
+        "officia",
+        "eiusmod"
+      ],
+      "seasons": "Spring",
+      "priceRating": "3.6089",
+      "price": "$293.60",
+      "likes": 70,
+      "copies": 75,
+      "user": {
+        "first": "Bradford",
+        "last": "Gibbs"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Tuesday, September 9, 2014 2:52 PM",
+      "endDate": "Monday, July 10, 2017 3:59 AM",
+      "activities": [
+        {
+          "title": "labore",
+          "date": "Thursday, September 27, 2018 6:33 AM",
+          "time": "Morning",
+          "priceRating": "1.79",
+          "price": "$326.99",
+          "description": "Minim ut mollit aliqua sint ullamco consequat non ipsum in. Laborum labore excepteur irure incididunt fugiat sint ullamco. Minim quis nisi commodo aliquip ipsum. Lorem ad nisi cillum qui anim eu. Dolore dolore elit ut reprehenderit nisi adipisicing. Duis amet deserunt veniam esse reprehenderit mollit do est sint cupidatat non.",
+          "tags": [
+            "aute",
+            "pariatur",
+            "velit",
+            "mollit",
+            "labore"
+          ],
+          "rating": "3.0736"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb27c2b847277432f3",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "laborum",
+      "subtitle": "Cupidatat minim occaecat consequat veniam dolor esse ipsum minim duis veniam do culpa. Sunt culpa ea non nulla veniam Lorem exercitation non Lorem excepteur labore deserunt sunt duis. Eu incididunt ea voluptate exercitation eu non pariatur minim excepteur dolore in enim. Id laboris ut proident exercitation reprehenderit ut non et. Occaecat eu nulla ut esse excepteur aliquip velit aliquip.",
+      "description": "Aliqua cupidatat eu elit nostrud in. Proident nulla officia ut pariatur do. Id do voluptate amet sint.\n\nQui culpa in cillum ipsum ex dolor fugiat dolore officia nulla velit commodo ad enim. Magna sit cupidatat ut mollit enim enim sit id est. Minim proident minim exercitation do tempor. Laborum aliqua aliquip do minim do ad incididunt sunt duis. Cillum sunt duis sunt ullamco pariatur irure.",
+      "public": true,
+      "tags": [
+        "ea",
+        "sunt",
+        "qui",
+        "non",
+        "do"
+      ],
+      "seasons": "Spring",
+      "priceRating": "2.9295",
+      "price": "$378.00",
+      "likes": 55,
+      "copies": 46,
+      "user": {
+        "first": "French",
+        "last": "Rivers"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Monday, October 24, 2016 3:12 AM",
+      "endDate": "Sunday, April 2, 2017 7:55 PM",
+      "activities": [
+        {
+          "title": "qui",
+          "date": "Monday, January 19, 2015 4:47 AM",
+          "time": "Night",
+          "priceRating": "4.0877",
+          "price": "$383.42",
+          "description": "Anim enim nisi amet exercitation ipsum amet minim ipsum ex sint aute. Deserunt ullamco aute aliqua dolore ex laborum magna sint voluptate. Sit labore adipisicing fugiat mollit minim do magna ex. Occaecat Lorem incididunt cupidatat enim aliquip cillum velit consectetur et occaecat aliquip deserunt nostrud. Ipsum nulla minim sint nulla enim. Veniam ut laboris do id deserunt anim qui culpa. Exercitation culpa minim velit Lorem eiusmod nulla cillum labore.",
+          "tags": [
+            "velit",
+            "quis",
+            "cillum",
+            "exercitation",
+            "commodo"
+          ],
+          "rating": "4.4263"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb1ebb6bf0d39d8d3a",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "labore",
+      "subtitle": "Ea veniam mollit fugiat anim reprehenderit sunt esse labore. Est qui nisi proident nulla ad dolore amet incididunt laborum tempor esse. Esse magna voluptate enim ullamco consequat consectetur aliquip velit.",
+      "description": "Eiusmod Lorem ex quis do anim consectetur nulla ea laborum. Amet et tempor voluptate culpa. Cupidatat aliqua incididunt elit cillum est qui ex proident elit ea anim. Nostrud ut pariatur ex amet velit veniam et mollit enim. Non nulla eiusmod mollit consequat incididunt esse magna eu pariatur id amet. Reprehenderit elit adipisicing sit officia sint in sint exercitation. Nulla ullamco est sunt dolore veniam deserunt Lorem do eiusmod veniam laboris.\n\nOccaecat exercitation in et anim elit sint officia duis amet adipisicing eu id in. Irure et non nulla reprehenderit ea sint esse magna culpa laborum. Ex ea magna aliquip nulla excepteur deserunt exercitation nostrud in.",
+      "public": false,
+      "tags": [
+        "eu",
+        "magna",
+        "ea",
+        "aute",
+        "sint"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "2.7085",
+      "price": "$587.96",
+      "likes": 57,
+      "copies": 43,
+      "user": {
+        "first": "Rachelle",
+        "last": "Jensen"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Tuesday, June 2, 2015 4:23 PM",
+      "endDate": "Wednesday, January 14, 2015 10:50 PM",
+      "activities": [
+        {
+          "title": "nostrud",
+          "date": "Sunday, April 20, 2014 1:14 AM",
+          "time": "Morning",
+          "priceRating": "4.7098",
+          "price": "$238.98",
+          "description": "Fugiat in anim reprehenderit duis veniam minim dolore ex amet. Lorem voluptate sit nulla qui elit mollit voluptate irure aute veniam laborum voluptate et occaecat. Est commodo eu commodo sint ea ut laborum amet cupidatat labore dolor occaecat. Culpa nostrud ea deserunt mollit occaecat incididunt cupidatat.",
+          "tags": [
+            "cupidatat",
+            "consequat",
+            "veniam",
+            "occaecat",
+            "cillum"
+          ],
+          "rating": "3.0125"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb3887e38bc245ba0a",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ullamco",
+      "subtitle": "Quis consectetur enim exercitation veniam mollit mollit enim nostrud id aliqua anim incididunt. Ipsum culpa aliqua magna tempor id adipisicing ex ea pariatur deserunt ut ut labore. Cillum qui voluptate irure tempor dolore consectetur consequat et. Sunt do aute cupidatat culpa velit. Irure esse cupidatat id est do exercitation est velit commodo nulla adipisicing adipisicing sint. Nostrud et veniam laborum qui nostrud magna enim nisi anim nostrud velit pariatur.",
+      "description": "Irure elit tempor sint minim consectetur. Ad in tempor officia elit duis et amet. Laborum velit qui dolore magna non. Anim nostrud in ad reprehenderit eu aliqua amet culpa reprehenderit occaecat ea duis.\n\nEst et esse nostrud eu non Lorem tempor excepteur enim ullamco elit cupidatat laboris. Eu dolor laborum consequat exercitation elit elit velit excepteur magna pariatur dolor. Consequat consectetur ex est qui sit mollit aliqua sit non laborum id pariatur. Enim et incididunt eu laborum ut pariatur. Aute sint eiusmod consectetur sit veniam qui magna. Ipsum sunt irure cupidatat labore quis nisi cupidatat et ea elit quis eu ex laboris.",
+      "public": false,
+      "tags": [
+        "dolore",
+        "duis",
+        "consectetur",
+        "aliqua",
+        "amet"
+      ],
+      "seasons": "Winter",
+      "priceRating": "0.818",
+      "price": "$803.63",
+      "likes": 85,
+      "copies": 73,
+      "user": {
+        "first": "Dorthy",
+        "last": "Peters"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": true,
+      "startDate": "Sunday, November 29, 2015 5:23 AM",
+      "endDate": "Tuesday, July 14, 2015 2:55 AM",
+      "activities": [
+        {
+          "title": "amet",
+          "date": "Wednesday, June 18, 2014 10:21 PM",
+          "time": "Night",
+          "priceRating": "4.992",
+          "price": "$303.89",
+          "description": "Do aliquip enim labore do nostrud est enim. Ipsum laborum officia proident velit dolore mollit excepteur fugiat excepteur velit elit ex sunt deserunt. Ad nostrud do deserunt labore esse amet. Excepteur excepteur cupidatat mollit ipsum adipisicing. Duis nisi sint labore laborum. Aute occaecat in consequat dolore commodo mollit adipisicing occaecat est eu.",
+          "tags": [
+            "proident",
+            "dolore",
+            "laborum",
+            "nostrud",
+            "fugiat"
+          ],
+          "rating": "3.3229"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbfdb92e2057f26ff5",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "deserunt",
+      "subtitle": "Commodo nulla quis in veniam ipsum proident id velit nostrud amet ex anim commodo. Non ad officia proident nisi aliqua pariatur id ipsum laborum et veniam. Labore cupidatat minim nulla officia occaecat laborum ad sint minim ut fugiat aliqua.",
+      "description": "Duis est do dolore non dolor nulla minim. Nostrud enim reprehenderit in aliqua amet. Cillum ad ullamco velit labore minim adipisicing fugiat. Adipisicing est occaecat eiusmod esse ut eiusmod tempor. Dolore eiusmod qui reprehenderit et ut officia ad deserunt aliquip sint aliqua. Nisi elit dolore ea aute ea non ad ea. Qui amet sunt cupidatat enim eu commodo aliquip laborum incididunt id proident nostrud.\n\nMinim duis culpa laboris veniam laborum dolore exercitation consectetur labore pariatur. Consectetur ex consequat pariatur anim do ad id nisi incididunt deserunt. Commodo mollit sint cupidatat laboris sint cupidatat sint fugiat commodo. Esse ut qui nisi laboris mollit minim deserunt ut nulla consequat. Ut anim ad proident ullamco qui cupidatat voluptate.",
+      "public": true,
+      "tags": [
+        "nostrud",
+        "elit",
+        "exercitation",
+        "nulla",
+        "dolore"
+      ],
+      "seasons": "Winter",
+      "priceRating": "4.2235",
+      "price": "$672.59",
+      "likes": 72,
+      "copies": 32,
+      "user": {
+        "first": "Luz",
+        "last": "Little"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Tuesday, January 31, 2017 6:52 PM",
+      "endDate": "Friday, March 13, 2015 7:04 PM",
+      "activities": [
+        {
+          "title": "officia",
+          "date": "Sunday, September 4, 2016 3:25 AM",
+          "time": "Afternoon",
+          "priceRating": "2.1139",
+          "price": "$806.33",
+          "description": "Sit tempor mollit dolore laborum aliqua excepteur officia consectetur minim culpa ad qui. Duis labore ipsum veniam ipsum laborum nisi. Aliquip excepteur cillum est consequat nulla ipsum anim nostrud ut exercitation consequat. Ipsum minim non amet aliquip qui irure culpa elit dolore sint aliqua. Tempor veniam excepteur exercitation commodo voluptate incididunt laboris aliqua veniam commodo culpa.",
+          "tags": [
+            "minim",
+            "mollit",
+            "quis",
+            "nisi",
+            "amet"
+          ],
+          "rating": "0.2368"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bbdccd369a101f83cf",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "velit",
+      "subtitle": "Commodo in Lorem mollit sunt dolore mollit non id. Ipsum elit sint aliqua ex dolore et sunt quis consectetur aliquip ex commodo. Reprehenderit ut cillum sunt consequat Lorem est adipisicing consequat nostrud ut consectetur aliqua. Fugiat ut proident veniam ea tempor mollit Lorem anim non ut.",
+      "description": "Et cupidatat in culpa tempor velit duis incididunt voluptate do in esse non ullamco non. Quis adipisicing minim labore ullamco laborum ad aute magna non. Exercitation enim adipisicing commodo culpa non laborum aliquip velit enim fugiat est. Ad nostrud ullamco ullamco occaecat amet non sint magna magna do.\n\nReprehenderit in voluptate do incididunt aute Lorem magna. Sunt nulla dolor ea ex. Sit id magna non cupidatat dolore Lorem cillum ipsum pariatur eiusmod pariatur sunt. Nostrud laboris aliquip sit voluptate voluptate aute enim quis aliqua consequat do aute pariatur occaecat. Eiusmod duis reprehenderit id labore ut.",
+      "public": true,
+      "tags": [
+        "sunt",
+        "ea",
+        "laboris",
+        "sunt",
+        "dolore"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "1.8734",
+      "price": "$249.35",
+      "likes": 92,
+      "copies": 60,
+      "user": {
+        "first": "Lowe",
+        "last": "Underwood"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Sunday, January 8, 2017 5:28 AM",
+      "endDate": "Monday, April 16, 2018 11:42 PM",
+      "activities": [
+        {
+          "title": "sunt",
+          "date": "Monday, March 27, 2017 9:18 PM",
+          "time": "Night",
+          "priceRating": "4.3236",
+          "price": "$751.24",
+          "description": "Voluptate excepteur deserunt reprehenderit aliquip. Consequat eiusmod consectetur dolor et occaecat ex sint irure nulla et Lorem sit deserunt. Nisi sunt qui ea cupidatat.",
+          "tags": [
+            "officia",
+            "in",
+            "adipisicing",
+            "aute",
+            "ullamco"
+          ],
+          "rating": "3.4732"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb74d2dd49b46b1566",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "do",
+      "subtitle": "Laboris mollit cillum laboris reprehenderit sint quis qui veniam pariatur sunt sint. Irure qui laboris occaecat commodo esse duis nulla ex est fugiat. Adipisicing esse non sit sunt ea magna pariatur excepteur. Duis incididunt minim ut amet veniam eiusmod aliquip aliquip consequat. Deserunt sunt fugiat in nisi. Tempor irure amet ad excepteur est nisi velit id reprehenderit officia velit ullamco.",
+      "description": "Lorem laboris anim velit laborum commodo deserunt officia labore enim dolore nulla. Incididunt dolore et id adipisicing fugiat sint sunt enim. Laborum ut ad ullamco velit irure consequat do velit. Esse voluptate consequat nostrud dolor excepteur sint ipsum mollit ut. Minim occaecat ipsum minim aliquip ad labore nisi incididunt.\n\nAd veniam ex do consequat qui consectetur esse excepteur sint mollit nulla officia ipsum. Anim sit ex enim nulla et dolore duis pariatur tempor qui consectetur non aliqua id. Do qui incididunt enim commodo in duis veniam duis laborum quis laborum. Id consectetur incididunt ipsum cupidatat. Excepteur ad officia esse aute reprehenderit laborum pariatur mollit aliqua amet mollit aute. Enim excepteur dolore irure sint ad consequat qui laboris nulla.",
+      "public": false,
+      "tags": [
+        "sunt",
+        "duis",
+        "sit",
+        "laboris",
+        "adipisicing"
+      ],
+      "seasons": "Summer",
+      "priceRating": "2.2127",
+      "price": "$499.81",
+      "likes": 66,
+      "copies": 68,
+      "user": {
+        "first": "Knox",
+        "last": "Levy"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Friday, September 18, 2015 8:53 PM",
+      "endDate": "Wednesday, September 9, 2015 9:19 AM",
+      "activities": [
+        {
+          "title": "consequat",
+          "date": "Monday, August 4, 2014 10:59 AM",
+          "time": "Morning",
+          "priceRating": "0.602",
+          "price": "$726.40",
+          "description": "Velit adipisicing irure officia minim commodo commodo nisi nulla veniam esse fugiat dolore. Ex exercitation ad Lorem pariatur est. Quis deserunt commodo minim minim et sunt labore. Eu eu nostrud amet ullamco quis sit dolore in esse aliquip.",
+          "tags": [
+            "adipisicing",
+            "occaecat",
+            "sint",
+            "incididunt",
+            "consequat"
+          ],
+          "rating": "2.1947"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb3ed5057610021353",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "qui",
+      "subtitle": "Adipisicing cupidatat id duis nostrud nostrud consequat exercitation eu Lorem ex commodo elit pariatur Lorem. Ex aliqua nisi dolor ullamco. Fugiat reprehenderit ad non tempor laborum do nostrud labore nostrud id.",
+      "description": "Officia culpa quis quis et dolor. Minim deserunt ex commodo non mollit laboris ad. Fugiat sint nostrud eu anim minim qui aliqua proident aliquip amet consectetur eiusmod anim deserunt. Et ullamco amet esse veniam consectetur laborum amet dolore nulla consequat adipisicing pariatur. Et incididunt do nulla exercitation aute id. Et enim labore consequat deserunt cillum in excepteur cupidatat proident elit nulla enim.\n\nEa ipsum deserunt officia ex ad ut cillum aute nisi id cillum dolor nulla. Laborum nisi non est sit exercitation. Dolore cillum voluptate consectetur veniam eu officia reprehenderit deserunt consectetur cillum anim. Esse commodo laborum consectetur cupidatat irure ullamco veniam consectetur.",
+      "public": true,
+      "tags": [
+        "est",
+        "aliqua",
+        "ullamco",
+        "officia",
+        "consectetur"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "2.5916",
+      "price": "$109.38",
+      "likes": 73,
+      "copies": 31,
+      "user": {
+        "first": "Valerie",
+        "last": "Fitzgerald"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Friday, May 18, 2018 5:16 PM",
+      "endDate": "Monday, March 9, 2015 10:51 AM",
+      "activities": [
+        {
+          "title": "sint",
+          "date": "Sunday, April 30, 2017 3:50 AM",
+          "time": "Afternoon",
+          "priceRating": "4.9789",
+          "price": "$742.60",
+          "description": "Aliqua mollit laborum nostrud quis pariatur consequat fugiat velit quis tempor esse. Cillum ipsum voluptate anim ipsum adipisicing do incididunt ea pariatur. Aliquip labore nulla duis aliqua ex cillum irure labore. Mollit est ea ipsum veniam tempor consectetur deserunt pariatur amet ullamco. Tempor officia dolor minim aute sit esse velit amet veniam. Fugiat aute aliqua nostrud tempor officia aliquip.",
+          "tags": [
+            "Lorem",
+            "et",
+            "cillum",
+            "commodo",
+            "anim"
+          ],
+          "rating": "4.7302"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb31a040f138b7c843",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "qui",
+      "subtitle": "Mollit laborum aute non reprehenderit eiusmod irure adipisicing ipsum nulla duis. Cupidatat amet sit sunt ex aute velit et ea proident. Mollit Lorem aute Lorem reprehenderit Lorem incididunt elit sunt cillum quis. Commodo minim eiusmod cupidatat in minim duis sint sunt et. Eiusmod laboris labore aliquip aliqua et.",
+      "description": "Ut ullamco deserunt cupidatat velit dolore pariatur. Pariatur est nulla excepteur est labore duis ad fugiat consectetur magna qui. Ea ipsum ut est amet id sunt anim. Amet esse ullamco cillum tempor aliqua tempor incididunt cillum.\n\nLabore non Lorem ut exercitation anim nulla non elit minim id laborum commodo cupidatat. Tempor dolor anim magna id ad cupidatat. Voluptate enim commodo nulla consequat tempor voluptate do minim labore do occaecat commodo. Consectetur ipsum do in exercitation nisi ea eiusmod. Aliquip ea est deserunt tempor veniam incididunt pariatur nulla est proident ullamco consectetur commodo.",
+      "public": true,
+      "tags": [
+        "nulla",
+        "reprehenderit",
+        "aliquip",
+        "officia",
+        "cillum"
+      ],
+      "seasons": "Winter",
+      "priceRating": "3.0872",
+      "price": "$351.18",
+      "likes": 62,
+      "copies": 64,
+      "user": {
+        "first": "Edith",
+        "last": "Morse"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Monday, October 23, 2017 4:29 AM",
+      "endDate": "Friday, February 20, 2015 8:45 PM",
+      "activities": [
+        {
+          "title": "esse",
+          "date": "Wednesday, November 5, 2014 11:42 PM",
+          "time": "Afternoon",
+          "priceRating": "3.1384",
+          "price": "$115.27",
+          "description": "Ut aliquip mollit duis amet incididunt duis commodo. Mollit cupidatat proident occaecat amet quis sit sint dolor reprehenderit nisi veniam consequat. Ipsum et do ut dolor adipisicing nisi laboris ullamco ex. Fugiat ipsum consectetur occaecat aute cillum ex velit. Lorem deserunt incididunt proident adipisicing commodo quis non ad. Magna ea velit eiusmod cillum veniam esse minim et ea exercitation. Non ex nisi in irure laboris irure mollit.",
+          "tags": [
+            "duis",
+            "sunt",
+            "labore",
+            "ipsum",
+            "nulla"
+          ],
+          "rating": "0.7165"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb45e30ade26b3ee5b",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "velit",
+      "subtitle": "Reprehenderit eu et nostrud pariatur laboris irure ullamco sint officia id occaecat mollit enim. Eiusmod laboris reprehenderit cupidatat voluptate. Irure irure dolor voluptate incididunt. Velit veniam ea tempor irure magna id. Ut do sunt deserunt do Lorem nisi sit ad esse magna commodo in amet ut.",
+      "description": "Consequat est enim ex aute laborum eu irure Lorem deserunt non minim reprehenderit et aute. Veniam amet laboris excepteur aliqua sit labore in aute. Ex minim et nostrud eiusmod do fugiat proident nulla tempor incididunt. Do dolore pariatur et ad enim eu cillum aliquip Lorem non nostrud. Et ut amet ea proident tempor proident nisi qui ea quis enim anim. Tempor qui laborum et velit. Ad deserunt Lorem et nulla ex dolore sint eiusmod quis velit commodo Lorem nulla deserunt.\n\nSunt dolor commodo fugiat magna eu deserunt mollit nostrud anim nisi laborum. Elit minim et dolore dolore ex duis magna elit ullamco consequat amet consectetur. Ipsum voluptate ut excepteur do dolor aute aliquip.",
+      "public": false,
+      "tags": [
+        "mollit",
+        "dolor",
+        "aliquip",
+        "incididunt",
+        "eu"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "3.5791",
+      "price": "$626.61",
+      "likes": 58,
+      "copies": 43,
+      "user": {
+        "first": "Allen",
+        "last": "Cabrera"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Monday, March 31, 2014 7:07 AM",
+      "endDate": "Saturday, July 12, 2014 7:16 PM",
+      "activities": [
+        {
+          "title": "est",
+          "date": "Friday, June 27, 2014 4:19 AM",
+          "time": "Night",
+          "priceRating": "4.7065",
+          "price": "$316.76",
+          "description": "Consequat sit non consectetur ea nostrud labore pariatur nulla enim. Adipisicing laborum consectetur eu aliqua culpa ullamco pariatur. Ad cillum id est et et exercitation irure labore cupidatat aliquip ipsum ipsum aliqua. In amet consectetur culpa labore dolor ea aliqua. Mollit nisi excepteur ex eiusmod culpa sit nostrud. Dolore velit excepteur magna consequat nulla Lorem dolore do cillum eu ea aute excepteur et.",
+          "tags": [
+            "pariatur",
+            "do",
+            "eiusmod",
+            "velit",
+            "ad"
+          ],
+          "rating": "4.0681"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bb9726fea5184fcbba",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "laborum",
+      "subtitle": "Enim ipsum ipsum laborum ut consequat quis pariatur et esse minim nostrud irure. Dolore ipsum voluptate mollit commodo est laborum pariatur ad dolore. Ipsum ea amet incididunt qui reprehenderit aliquip. Adipisicing duis duis incididunt eiusmod. Cillum aliqua sit amet excepteur et aliqua ea occaecat qui.",
+      "description": "Velit aute est minim ipsum velit officia do eu esse commodo dolor ipsum. Et eu irure Lorem do et qui. Laborum nisi nulla laborum reprehenderit voluptate adipisicing do aliquip elit nulla mollit. Deserunt minim aliquip sunt incididunt in duis ad. Adipisicing irure anim nostrud deserunt et nisi duis. Non labore ea cupidatat est do. Aute non sunt quis esse voluptate ut labore laborum et.\n\nAdipisicing reprehenderit labore amet non excepteur nostrud ex tempor esse occaecat adipisicing proident. Anim ullamco aute irure fugiat aute culpa consectetur cillum exercitation qui commodo. Adipisicing mollit ipsum exercitation eu.",
+      "public": false,
+      "tags": [
+        "mollit",
+        "esse",
+        "cillum",
+        "reprehenderit",
+        "fugiat"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "1.8743",
+      "price": "$321.22",
+      "likes": 82,
+      "copies": 54,
+      "user": {
+        "first": "Liza",
+        "last": "Mcknight"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Monday, December 18, 2017 1:58 PM",
+      "endDate": "Monday, December 18, 2017 7:15 AM",
+      "activities": [
+        {
+          "title": "laborum",
+          "date": "Wednesday, January 3, 2018 6:43 PM",
+          "time": "Afternoon",
+          "priceRating": "4.4875",
+          "price": "$379.74",
+          "description": "Laborum ullamco anim non veniam. Incididunt velit velit aliqua eu velit aute non. Labore consectetur minim quis consequat labore et consectetur amet qui anim laborum aute. Veniam qui proident est dolor. Dolor do pariatur occaecat eiusmod. Aliquip nostrud officia nisi nisi dolor tempor commodo.",
+          "tags": [
+            "aliqua",
+            "laborum",
+            "qui",
+            "pariatur",
+            "do"
+          ],
+          "rating": "4.2105"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bba30fe5ba514216de",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "Lorem",
+      "subtitle": "Ex nostrud ullamco nulla duis magna esse proident voluptate ut. Do in irure veniam nisi officia in commodo cillum nulla fugiat laboris fugiat aliquip. Nulla aliquip nulla occaecat occaecat ea sunt ex. Esse ex consequat reprehenderit consequat exercitation occaecat ut. Est pariatur mollit aute occaecat ullamco. Laborum minim excepteur consequat magna aute esse deserunt ex sit. Labore tempor adipisicing adipisicing id sint cillum.",
+      "description": "Anim voluptate quis nostrud officia ea consectetur sunt dolore sunt nostrud eiusmod enim anim in. Adipisicing officia incididunt enim occaecat sit velit elit reprehenderit consectetur culpa exercitation. Adipisicing est ipsum veniam proident cupidatat ex voluptate duis labore.\n\nLaboris aute mollit irure amet qui. Cillum est quis mollit sit amet sint occaecat esse non reprehenderit mollit. Qui laboris ut non aute. Est enim dolor amet culpa aliqua do minim ut adipisicing Lorem.",
+      "public": false,
+      "tags": [
+        "enim",
+        "occaecat",
+        "velit",
+        "proident",
+        "consequat"
+      ],
+      "seasons": "Winter",
+      "priceRating": "1.587",
+      "price": "$564.70",
+      "likes": 83,
+      "copies": 63,
+      "user": {
+        "first": "Clayton",
+        "last": "Sims"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Wednesday, July 2, 2014 5:14 AM",
+      "endDate": "Sunday, March 2, 2014 12:05 AM",
+      "activities": [
+        {
+          "title": "quis",
+          "date": "Monday, April 25, 2016 11:30 PM",
+          "time": "Morning",
+          "priceRating": "2.0177",
+          "price": "$553.68",
+          "description": "Consequat magna dolore non nulla ex aliqua ipsum commodo laboris sint eiusmod mollit. Id nostrud tempor aliqua est sunt non sunt. Ipsum commodo reprehenderit anim aute velit anim.",
+          "tags": [
+            "culpa",
+            "nulla",
+            "consequat",
+            "cillum",
+            "voluptate"
+          ],
+          "rating": "4.3353"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc265b43fc50a65484",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "duis",
+      "subtitle": "Proident ut id est sit veniam nulla elit cupidatat ex commodo minim esse. Laboris esse veniam irure exercitation duis enim commodo ut reprehenderit aliquip aliqua nisi laborum. Consectetur non cillum duis non tempor elit commodo aliquip in mollit cupidatat aute.",
+      "description": "Do eiusmod consectetur sit pariatur culpa magna est laborum. Voluptate eiusmod fugiat et cillum sit. In reprehenderit officia ex laboris esse ut Lorem eu exercitation ipsum ad pariatur quis.\n\nId aliqua dolore enim laboris cupidatat eu voluptate sunt sit aliquip. Tempor eiusmod do quis cupidatat adipisicing ut consequat non laboris aliquip amet culpa. Aliquip laborum duis ad aliqua cupidatat voluptate nisi deserunt adipisicing id reprehenderit do.",
+      "public": false,
+      "tags": [
+        "sint",
+        "anim",
+        "labore",
+        "sit",
+        "incididunt"
+      ],
+      "seasons": "Summer",
+      "priceRating": "2.793",
+      "price": "$234.66",
+      "likes": 94,
+      "copies": 28,
+      "user": {
+        "first": "Rene",
+        "last": "Bradley"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Thursday, July 31, 2014 4:47 PM",
+      "endDate": "Sunday, January 12, 2014 6:56 PM",
+      "activities": [
+        {
+          "title": "ex",
+          "date": "Tuesday, November 25, 2014 10:47 PM",
+          "time": "Morning",
+          "priceRating": "1.9609",
+          "price": "$766.37",
+          "description": "Nostrud esse cillum veniam sunt sunt proident commodo dolore irure ullamco Lorem cillum ut. Aute quis laborum sint ex amet. Sit labore aliquip consequat mollit officia cillum do veniam anim.",
+          "tags": [
+            "voluptate",
+            "in",
+            "duis",
+            "ipsum",
+            "est"
+          ],
+          "rating": "1.0826"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc4758f110b5178780",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "quis",
+      "subtitle": "Excepteur nulla in do aliqua non adipisicing. Cupidatat nulla velit ea voluptate ipsum sit ut reprehenderit in laboris sunt occaecat ex. Dolor id dolor laborum sint aliqua pariatur nostrud. Lorem labore enim proident tempor culpa ex. Ut ex esse duis et.",
+      "description": "Nulla veniam ad mollit aliqua officia amet ullamco velit nulla esse. Irure aute aliquip deserunt est fugiat labore commodo elit ullamco sit velit ex. Magna velit eu culpa exercitation occaecat excepteur amet nostrud fugiat ea adipisicing id. Culpa commodo mollit aliquip nostrud minim mollit magna proident anim do ullamco dolor mollit. Reprehenderit incididunt enim consequat Lorem aliquip sit amet magna duis anim deserunt officia ex. Amet reprehenderit nostrud duis culpa nostrud qui eu.\n\nEx tempor magna nulla ipsum est ad proident nulla aliqua do quis cillum consectetur culpa. Anim velit labore et ex aute magna. Adipisicing consectetur deserunt aute et culpa dolor pariatur do ullamco aute. Reprehenderit sint amet est cupidatat laboris in. Ipsum do nostrud elit duis in culpa voluptate officia non nisi veniam proident nulla aliqua.",
+      "public": true,
+      "tags": [
+        "cupidatat",
+        "nostrud",
+        "nisi",
+        "est",
+        "anim"
+      ],
+      "seasons": "Spring",
+      "priceRating": "0.5782",
+      "price": "$652.54",
+      "likes": 70,
+      "copies": 57,
+      "user": {
+        "first": "Maureen",
+        "last": "Farrell"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Friday, January 27, 2017 8:10 AM",
+      "endDate": "Tuesday, August 12, 2014 6:45 AM",
+      "activities": [
+        {
+          "title": "officia",
+          "date": "Sunday, October 25, 2015 10:17 PM",
+          "time": "Afternoon",
+          "priceRating": "1.9689",
+          "price": "$233.66",
+          "description": "Labore ullamco laboris dolor eiusmod minim in eiusmod culpa consectetur aute. Sunt sit magna eu pariatur. Et quis exercitation adipisicing sit irure laboris amet tempor Lorem proident ullamco in. Enim duis pariatur anim laborum sint esse occaecat. Anim laborum laborum magna duis do Lorem exercitation nisi. Officia incididunt elit qui qui reprehenderit est magna eu irure excepteur esse id.",
+          "tags": [
+            "est",
+            "magna",
+            "voluptate",
+            "laboris",
+            "proident"
+          ],
+          "rating": "4.4903"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc2982fb7a38d530ee",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "magna",
+      "subtitle": "Voluptate proident Lorem reprehenderit adipisicing. Laboris fugiat eu do anim commodo eiusmod culpa dolor laboris aute sit cillum anim Lorem. Anim Lorem sit fugiat exercitation ullamco pariatur ex nostrud commodo.",
+      "description": "Nisi pariatur adipisicing ea incididunt ex sit eu sit do voluptate do ea nulla deserunt. Sunt veniam eiusmod incididunt tempor laborum cillum deserunt culpa excepteur adipisicing ipsum duis deserunt. Et irure ea laboris eiusmod minim qui veniam consequat elit. Consectetur dolore velit ad minim sit veniam est ad nulla reprehenderit.\n\nAliquip eiusmod incididunt anim esse Lorem. Deserunt sunt ullamco ea ut nisi adipisicing aliqua aute magna incididunt ut cupidatat. Irure eu dolore ut irure occaecat deserunt.",
+      "public": true,
+      "tags": [
+        "mollit",
+        "minim",
+        "tempor",
+        "sunt",
+        "nisi"
+      ],
+      "seasons": "Spring",
+      "priceRating": "3.7577",
+      "price": "$803.16",
+      "likes": 51,
+      "copies": 71,
+      "user": {
+        "first": "Jeanie",
+        "last": "Harmon"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Monday, May 7, 2018 2:36 AM",
+      "endDate": "Thursday, January 1, 2015 4:24 AM",
+      "activities": [
+        {
+          "title": "irure",
+          "date": "Wednesday, April 22, 2015 9:26 PM",
+          "time": "Afternoon",
+          "priceRating": "3.9171",
+          "price": "$920.44",
+          "description": "Ut esse fugiat incididunt dolor ex dolore consectetur laborum quis ullamco irure. Non proident voluptate officia tempor ex fugiat minim laboris officia. Deserunt excepteur excepteur sunt minim occaecat officia officia. Esse mollit culpa anim fugiat. Velit reprehenderit cillum eu labore reprehenderit qui quis nostrud laboris labore. Ipsum sint commodo eiusmod duis pariatur fugiat sint aliqua consequat est mollit. Quis in ut dolor fugiat commodo tempor ex reprehenderit excepteur ipsum dolore consequat aliqua eu.",
+          "tags": [
+            "ad",
+            "excepteur",
+            "labore",
+            "eu",
+            "elit"
+          ],
+          "rating": "0.0899"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc7633c29b6347d777",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "in",
+      "subtitle": "Aliquip nulla ad proident est minim commodo nulla ad commodo duis. Sint sint et magna aliqua consequat reprehenderit incididunt veniam occaecat. Occaecat elit do adipisicing irure aute Lorem in. Laboris incididunt consectetur ipsum fugiat ad deserunt pariatur duis sunt tempor excepteur duis ut.",
+      "description": "Incididunt quis id velit occaecat Lorem proident. Magna enim eu cupidatat ullamco ad ullamco anim tempor anim. Est duis dolor ipsum in eiusmod magna culpa non magna non veniam deserunt dolor. Elit ullamco enim quis ut ea. Fugiat magna qui reprehenderit qui officia excepteur amet amet nisi mollit eiusmod. Sint nisi laboris sit eiusmod anim consectetur ipsum duis.\n\nExcepteur mollit excepteur id enim officia commodo consectetur occaecat nisi. Mollit aliquip magna anim eu irure. Ut laboris quis cupidatat dolore in duis. Dolore sunt enim anim culpa voluptate dolore laboris. Tempor tempor Lorem laboris non enim anim ut ea eu officia veniam. Veniam do dolore officia et. Aliquip voluptate consectetur id magna.",
+      "public": true,
+      "tags": [
+        "adipisicing",
+        "minim",
+        "ea",
+        "non",
+        "ipsum"
+      ],
+      "seasons": "Spring",
+      "priceRating": "1.2987",
+      "price": "$745.19",
+      "likes": 54,
+      "copies": 61,
+      "user": {
+        "first": "Kelly",
+        "last": "Moreno"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Thursday, January 16, 2014 3:09 PM",
+      "endDate": "Monday, December 5, 2016 3:18 PM",
+      "activities": [
+        {
+          "title": "dolor",
+          "date": "Friday, February 19, 2016 8:18 PM",
+          "time": "Morning",
+          "priceRating": "4.8296",
+          "price": "$436.82",
+          "description": "Sit in non deserunt proident ipsum. Culpa consectetur aliquip irure sit nulla voluptate duis veniam ad irure. Enim eu proident sint mollit nulla eu. Adipisicing id fugiat do voluptate commodo voluptate irure. Proident amet aute excepteur eiusmod dolor Lorem veniam ea est pariatur ipsum culpa do consequat.",
+          "tags": [
+            "amet",
+            "aute",
+            "dolore",
+            "ad",
+            "ex"
+          ],
+          "rating": "1.8924"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bca54de051e4576fc6",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "duis",
+      "subtitle": "Eiusmod reprehenderit esse adipisicing sint aliquip pariatur magna pariatur culpa sit ut tempor. Labore est consequat ullamco aliqua ullamco in dolore. Dolor occaecat enim exercitation nostrud velit magna do incididunt nulla nisi. Fugiat aliqua fugiat sunt pariatur in nostrud laborum magna. Tempor reprehenderit commodo officia cillum sunt eu deserunt elit laboris. Tempor eu ut in est nostrud ea cillum anim dolore eu reprehenderit. Culpa eu id non aliqua do non cupidatat culpa ea ad labore aliqua occaecat cillum.",
+      "description": "Ipsum ad ex esse eiusmod adipisicing consectetur non laborum pariatur velit pariatur aliquip mollit aute. Eu irure nulla ipsum magna in adipisicing in duis anim officia pariatur. Nisi ea voluptate nostrud cupidatat velit. Anim minim excepteur occaecat nostrud laboris velit nulla occaecat. Officia esse ut sint et do magna velit id proident veniam. Commodo reprehenderit sint ex aliqua officia.\n\nSit aute dolor veniam voluptate pariatur excepteur. Incididunt et culpa commodo et ullamco aliquip quis tempor non minim adipisicing pariatur id mollit. Reprehenderit qui laborum irure reprehenderit consectetur adipisicing.",
+      "public": false,
+      "tags": [
+        "voluptate",
+        "quis",
+        "non",
+        "duis",
+        "adipisicing"
+      ],
+      "seasons": "Summer",
+      "priceRating": "1.8241",
+      "price": "$961.56",
+      "likes": 81,
+      "copies": 29,
+      "user": {
+        "first": "Claudia",
+        "last": "Velasquez"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Thursday, July 14, 2016 3:00 AM",
+      "endDate": "Wednesday, March 14, 2018 9:13 PM",
+      "activities": [
+        {
+          "title": "velit",
+          "date": "Thursday, November 29, 2018 4:29 AM",
+          "time": "Morning",
+          "priceRating": "1.1112",
+          "price": "$241.99",
+          "description": "Ut ea ex aliquip reprehenderit minim. Ipsum enim est pariatur fugiat. Dolore sunt ipsum sit esse enim sunt irure labore cupidatat commodo ullamco ipsum eu laborum. Adipisicing dolor enim reprehenderit nostrud. Non irure aliqua excepteur et et aliquip proident Lorem commodo duis ea aute. Cupidatat aliqua eiusmod dolore consequat duis ipsum nisi mollit tempor pariatur proident esse. Reprehenderit id aliquip incididunt ut amet.",
+          "tags": [
+            "labore",
+            "magna",
+            "ut",
+            "anim",
+            "laborum"
+          ],
+          "rating": "0.756"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc71294ff08bbe5e91",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "id",
+      "subtitle": "Nulla labore ipsum velit dolor Lorem eu laboris enim. Occaecat sint ipsum deserunt est eiusmod magna ipsum pariatur reprehenderit culpa et velit ex. Eiusmod amet magna officia irure ea et eiusmod cupidatat do ex laboris nulla.",
+      "description": "Duis cillum deserunt officia sit amet adipisicing nulla ad consequat velit ut et. Ex ullamco officia dolor deserunt enim ad velit culpa adipisicing aute officia pariatur cupidatat ut. Dolore labore amet pariatur quis cillum dolor consequat. Adipisicing deserunt fugiat nulla officia ad occaecat fugiat cupidatat nostrud. Lorem occaecat sint ad laborum nostrud aliquip aliqua culpa ut deserunt velit velit. Amet proident commodo eu ad deserunt ad adipisicing exercitation ex cupidatat aliquip laborum cillum.\n\nQui mollit est consectetur dolor excepteur ad ipsum ad consectetur laboris non laborum irure veniam. Ipsum ad incididunt ex laborum esse elit eu id. Qui eiusmod officia incididunt et sunt et incididunt duis aute consequat. Veniam amet eiusmod culpa velit cupidatat incididunt esse dolore velit aute culpa id. Dolore anim laboris fugiat in enim consectetur. Sit proident minim aute ullamco est dolore culpa consequat. In cillum officia enim qui sunt id nostrud proident fugiat consequat id dolore.",
+      "public": false,
+      "tags": [
+        "aliquip",
+        "et",
+        "minim",
+        "cillum",
+        "Lorem"
+      ],
+      "seasons": "Spring",
+      "priceRating": "1.7823",
+      "price": "$585.56",
+      "likes": 90,
+      "copies": 67,
+      "user": {
+        "first": "Mandy",
+        "last": "Mcintyre"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Saturday, January 17, 2015 10:53 AM",
+      "endDate": "Friday, April 24, 2015 9:05 AM",
+      "activities": [
+        {
+          "title": "tempor",
+          "date": "Friday, November 25, 2016 7:03 PM",
+          "time": "Afternoon",
+          "priceRating": "2.1954",
+          "price": "$298.59",
+          "description": "Labore reprehenderit ullamco magna incididunt magna. Tempor adipisicing eiusmod officia ex. Deserunt culpa laboris proident deserunt tempor irure. Ea sit aliquip dolore quis excepteur. Anim consequat fugiat tempor et qui reprehenderit pariatur dolor ipsum eu veniam aliqua.",
+          "tags": [
+            "nisi",
+            "quis",
+            "consequat",
+            "amet",
+            "quis"
+          ],
+          "rating": "1.529"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc54b355bdd1255c9e",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ullamco",
+      "subtitle": "Elit aute adipisicing commodo proident. Lorem laboris fugiat labore eu irure minim adipisicing labore amet irure nisi elit labore cillum. Aute irure amet aliquip officia laborum laborum cupidatat deserunt sint enim consectetur ipsum exercitation. Ullamco occaecat eu et pariatur. Ex sint magna non ipsum minim proident occaecat adipisicing voluptate enim ullamco duis aliqua. Nostrud dolore nostrud qui elit in.",
+      "description": "Culpa sint consectetur labore aliqua eiusmod incididunt aliqua adipisicing. Eu incididunt ipsum amet nulla quis. Eu nulla consequat cupidatat quis laboris eu do do ad excepteur ex laborum cupidatat. Quis eu officia occaecat proident. Sunt consequat ad et id. Velit labore et sunt nostrud amet in in elit. Ullamco irure nisi occaecat enim anim officia ea eiusmod officia commodo.\n\nTempor consequat consectetur commodo esse. Ullamco proident sunt aute cupidatat ea mollit cupidatat anim laboris proident. Non cillum esse ex id est quis elit veniam cillum cillum est sit. Laboris consequat nostrud id laborum proident fugiat reprehenderit consequat do occaecat.",
+      "public": false,
+      "tags": [
+        "incididunt",
+        "ipsum",
+        "velit",
+        "eiusmod",
+        "cupidatat"
+      ],
+      "seasons": "Spring",
+      "priceRating": "4.5883",
+      "price": "$481.30",
+      "likes": 82,
+      "copies": 70,
+      "user": {
+        "first": "Goodman",
+        "last": "Sanchez"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Unknow",
+      "done": true,
+      "startDate": "Sunday, March 11, 2018 9:59 PM",
+      "endDate": "Sunday, October 4, 2015 12:07 PM",
+      "activities": [
+        {
+          "title": "laboris",
+          "date": "Friday, March 17, 2017 12:31 PM",
+          "time": "Night",
+          "priceRating": "3.9739",
+          "price": "$973.29",
+          "description": "Dolor et minim est amet incididunt tempor. Dolore Lorem esse adipisicing pariatur tempor id voluptate occaecat officia adipisicing laborum esse consectetur deserunt. Amet in veniam occaecat ipsum eu incididunt aliqua.",
+          "tags": [
+            "ut",
+            "mollit",
+            "elit",
+            "quis",
+            "sint"
+          ],
+          "rating": "1.3612"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc4bfe9ca192283267",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "adipisicing",
+      "subtitle": "Voluptate do ipsum magna cillum. Nulla velit nisi veniam enim ex ullamco quis quis enim nostrud. Dolore et anim eiusmod do adipisicing aute duis duis ex elit nostrud.",
+      "description": "Irure consequat deserunt ullamco aliqua enim officia excepteur adipisicing ad. Veniam proident nisi proident est ad dolore aute nulla quis. Ad do enim culpa velit elit ut sit ut amet ad qui sint in excepteur. Mollit quis sint deserunt officia ipsum officia. Anim ut proident nulla aute proident voluptate exercitation. Anim minim voluptate ex fugiat ad est ullamco. Ipsum do esse exercitation voluptate Lorem consectetur cupidatat consectetur minim occaecat.\n\nExercitation et ut officia proident excepteur labore non do sit magna minim aliqua ut duis. Officia do nisi nostrud commodo do. Fugiat enim consequat cillum officia.",
+      "public": true,
+      "tags": [
+        "commodo",
+        "enim",
+        "ipsum",
+        "est",
+        "veniam"
+      ],
+      "seasons": "Summer",
+      "priceRating": "3.5908",
+      "price": "$365.90",
+      "likes": 56,
+      "copies": 38,
+      "user": {
+        "first": "Mcintyre",
+        "last": "Kelly"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Friday, October 16, 2015 11:53 AM",
+      "endDate": "Thursday, January 25, 2018 6:53 PM",
+      "activities": [
+        {
+          "title": "commodo",
+          "date": "Saturday, November 4, 2017 1:25 AM",
+          "time": "Afternoon",
+          "priceRating": "3.9725",
+          "price": "$844.59",
+          "description": "Anim minim Lorem irure duis exercitation est sint nisi fugiat. Adipisicing aliqua est quis laborum ut deserunt consequat eiusmod elit eiusmod ea ex aliqua deserunt. Consectetur aute ut aute cupidatat voluptate. Sint magna excepteur do ut enim sit magna esse. Incididunt amet ipsum ex mollit magna qui veniam in elit duis sunt cupidatat. Incididunt in qui incididunt proident.",
+          "tags": [
+            "dolor",
+            "amet",
+            "proident",
+            "exercitation",
+            "ad"
+          ],
+          "rating": "0.9456"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc4d932710235b56c9",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ex",
+      "subtitle": "Consequat enim cillum sint anim aliqua qui adipisicing irure commodo. Aliquip ullamco consequat aute adipisicing dolore pariatur fugiat. Cupidatat ad commodo mollit do dolor magna laborum cupidatat consectetur eu. Ex labore do ea minim esse esse sint nulla. In Lorem mollit eiusmod irure duis esse ipsum dolore eu duis dolor commodo. Est ad in ullamco Lorem ipsum cillum excepteur ullamco consequat tempor pariatur officia irure. Id proident magna est aliquip aliqua exercitation amet non.",
+      "description": "Incididunt irure non enim reprehenderit ea do. Veniam anim consectetur laborum ullamco ex ex exercitation sunt duis Lorem. Nulla nulla ad dolor officia cillum laborum ad adipisicing cupidatat. Labore sint magna est tempor. Dolor nisi culpa nulla minim Lorem occaecat aliquip fugiat ad. Veniam et elit velit veniam qui minim ea id et.\n\nLorem aliqua voluptate in tempor velit non proident. Cillum fugiat irure quis aliqua. Nisi ea officia anim minim eiusmod est non exercitation enim non. Mollit Lorem laboris aliqua dolor proident tempor Lorem do ullamco consequat reprehenderit.",
+      "public": true,
+      "tags": [
+        "fugiat",
+        "tempor",
+        "Lorem",
+        "excepteur",
+        "Lorem"
+      ],
+      "seasons": "Winter",
+      "priceRating": "4.3227",
+      "price": "$774.47",
+      "likes": 50,
+      "copies": 34,
+      "user": {
+        "first": "Valencia",
+        "last": "Massey"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Friday, April 11, 2014 4:36 AM",
+      "endDate": "Thursday, March 16, 2017 1:27 PM",
+      "activities": [
+        {
+          "title": "mollit",
+          "date": "Monday, July 23, 2018 11:57 AM",
+          "time": "Night",
+          "priceRating": "1.2742",
+          "price": "$657.61",
+          "description": "Minim sunt adipisicing ipsum culpa anim eu elit eiusmod nostrud excepteur fugiat. Lorem enim fugiat magna nostrud et consequat sit qui consectetur. Nulla enim consequat aliquip ullamco ex ipsum eu. Cillum deserunt laborum sit labore adipisicing labore esse labore non est aute ipsum officia laboris. Lorem magna culpa nisi velit proident commodo.",
+          "tags": [
+            "dolor",
+            "nostrud",
+            "minim",
+            "sunt",
+            "reprehenderit"
+          ],
+          "rating": "0.164"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bcf3ef085eb51500c1",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "dolor",
+      "subtitle": "Excepteur sit voluptate nisi voluptate mollit nisi ut. Consequat est ea sunt aliquip aliqua dolore in pariatur id laborum ullamco. Esse esse velit ea est ullamco quis cillum irure magna mollit aliqua.",
+      "description": "Tempor reprehenderit occaecat eu reprehenderit deserunt laborum. Et sint laboris tempor pariatur consectetur dolor et id et sit sunt mollit laborum. Voluptate in consectetur veniam dolore fugiat nisi labore.\n\nVoluptate sunt adipisicing ea ullamco. Consequat ad cillum esse incididunt deserunt. Enim reprehenderit laboris officia consequat voluptate consequat veniam pariatur cupidatat. Ad aute non ipsum excepteur ea minim eu commodo voluptate esse eu eu elit pariatur.",
+      "public": false,
+      "tags": [
+        "officia",
+        "Lorem",
+        "duis",
+        "nisi",
+        "labore"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "2.2233",
+      "price": "$755.60",
+      "likes": 71,
+      "copies": 61,
+      "user": {
+        "first": "Mann",
+        "last": "Joseph"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Tuesday, May 30, 2017 7:27 AM",
+      "endDate": "Monday, November 7, 2016 7:17 AM",
+      "activities": [
+        {
+          "title": "reprehenderit",
+          "date": "Thursday, November 30, 2017 7:47 AM",
+          "time": "Morning",
+          "priceRating": "1.4655",
+          "price": "$716.11",
+          "description": "Eiusmod eu ipsum consequat sint laboris. Do Lorem in ad sunt anim nisi Lorem eu minim esse est. Sit qui est ex minim Lorem eu laborum ad qui. Excepteur sit minim commodo sit. Dolore ipsum irure mollit mollit qui dolor qui sunt qui quis sunt culpa ea sint. Ea dolore Lorem culpa sint ipsum deserunt dolor incididunt cillum proident laborum consectetur. Eiusmod duis labore do aliqua irure reprehenderit tempor esse nisi anim esse cillum.",
+          "tags": [
+            "nisi",
+            "consectetur",
+            "cillum",
+            "proident",
+            "eu"
+          ],
+          "rating": "1.4614"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bcd56da148f5343a60",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ut",
+      "subtitle": "Consectetur amet est laborum minim commodo et qui. Aute esse fugiat officia nulla cillum fugiat minim consequat anim. Voluptate cupidatat sunt nisi culpa dolor esse exercitation sint officia minim consequat. Fugiat elit duis voluptate excepteur exercitation excepteur laboris.",
+      "description": "Voluptate enim proident et magna sit anim et proident deserunt esse pariatur. In voluptate elit mollit eu mollit in irure do occaecat. Sunt eu eu reprehenderit ea ad ipsum eu excepteur mollit. Duis commodo consequat sunt do commodo duis consectetur et nostrud reprehenderit ipsum consequat fugiat eu. Excepteur adipisicing excepteur ea ea eiusmod Lorem cillum do ut consequat occaecat voluptate.\n\nAnim do dolor Lorem labore laboris adipisicing nostrud. Incididunt esse adipisicing cupidatat culpa. Occaecat voluptate fugiat nulla qui commodo.",
+      "public": true,
+      "tags": [
+        "laborum",
+        "tempor",
+        "eiusmod",
+        "sit",
+        "dolore"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "1.4471",
+      "price": "$130.91",
+      "likes": 67,
+      "copies": 38,
+      "user": {
+        "first": "Heath",
+        "last": "Pena"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Thursday, April 27, 2017 10:51 AM",
+      "endDate": "Thursday, February 22, 2018 3:34 PM",
+      "activities": [
+        {
+          "title": "non",
+          "date": "Monday, April 24, 2017 12:59 AM",
+          "time": "Morning",
+          "priceRating": "3.1588",
+          "price": "$785.82",
+          "description": "Incididunt et sit laboris sint adipisicing elit ut sint sunt do laboris ea. Ea excepteur et adipisicing reprehenderit culpa culpa consectetur et ipsum deserunt. Sit nulla duis minim id enim quis qui cillum consequat exercitation commodo eiusmod. Elit officia excepteur voluptate proident ipsum culpa pariatur cupidatat nostrud do est nostrud sunt. Et sit esse id nostrud adipisicing tempor nostrud Lorem Lorem sunt. In do velit reprehenderit dolore consectetur minim.",
+          "tags": [
+            "ullamco",
+            "id",
+            "excepteur",
+            "et",
+            "fugiat"
+          ],
+          "rating": "2.2884"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc76a002ce63b8e382",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "laboris",
+      "subtitle": "Laboris officia commodo sint reprehenderit eiusmod voluptate est amet ipsum. Labore minim enim pariatur consequat velit est eu ea proident velit id nostrud aliqua. Laboris mollit mollit ut et culpa id mollit elit ea consequat exercitation eiusmod incididunt. Non voluptate elit officia magna id ut non exercitation officia et ut esse esse nostrud. Nisi amet aute duis et do aute labore. Culpa do adipisicing in nostrud fugiat amet ipsum dolor. Ex sit qui dolore qui nisi pariatur eiusmod aliquip Lorem eiusmod in.",
+      "description": "Sunt reprehenderit ea est nisi irure et dolore do deserunt aliqua magna in commodo nulla. Veniam irure nostrud est cupidatat irure sint esse ad ullamco est sint irure ad labore. Id tempor minim deserunt voluptate. Officia nostrud laboris proident aliqua irure non elit. Eiusmod nisi sunt magna irure ipsum do mollit reprehenderit. Aute in nulla ex ipsum. Sunt id nisi proident cillum mollit nulla esse veniam elit id ullamco fugiat id aliquip.\n\nAliqua commodo eu mollit proident ut laboris laborum sint labore nulla veniam incididunt esse. Sunt laboris laborum adipisicing aliquip do incididunt Lorem ad ipsum dolore est mollit sint pariatur. Ad excepteur id reprehenderit exercitation cillum proident Lorem. Veniam dolore cupidatat voluptate incididunt elit. Nulla officia amet aliquip pariatur eiusmod aute ea laborum nisi laborum ullamco ad. Enim officia aute veniam anim duis sint excepteur eiusmod culpa sint. Nostrud voluptate nisi ea duis ad duis.",
+      "public": true,
+      "tags": [
+        "laborum",
+        "non",
+        "duis",
+        "non",
+        "ut"
+      ],
+      "seasons": "Summer",
+      "priceRating": "3.077",
+      "price": "$277.09",
+      "likes": 62,
+      "copies": 63,
+      "user": {
+        "first": "Shawn",
+        "last": "Owen"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Tuesday, September 8, 2015 5:43 AM",
+      "endDate": "Sunday, April 26, 2015 6:30 PM",
+      "activities": [
+        {
+          "title": "ut",
+          "date": "Friday, November 4, 2016 10:38 AM",
+          "time": "Night",
+          "priceRating": "1.9381",
+          "price": "$384.48",
+          "description": "Fugiat sit ex exercitation elit id. Culpa ex elit voluptate aliquip sunt cillum Lorem nostrud est culpa mollit incididunt consectetur culpa. Commodo excepteur elit labore eu elit ea.",
+          "tags": [
+            "deserunt",
+            "minim",
+            "id",
+            "officia",
+            "veniam"
+          ],
+          "rating": "0.6876"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc4661a43155b9f343",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "laboris",
+      "subtitle": "Elit sint reprehenderit nostrud labore nisi pariatur amet consectetur id non excepteur commodo nulla adipisicing. Amet consequat in sit nostrud consequat eiusmod et magna sit magna pariatur mollit. Labore sit Lorem sint et consectetur eiusmod ea quis velit proident pariatur. Consequat incididunt labore consectetur qui irure cupidatat nostrud eiusmod.",
+      "description": "Deserunt elit minim minim pariatur ut laborum ea cupidatat Lorem. Consequat do id ut non qui id. Excepteur eu voluptate irure dolor cupidatat esse aute. Ullamco qui veniam occaecat sint nisi. Minim Lorem aute exercitation ex incididunt ad aute magna nisi magna tempor fugiat minim aute.\n\nProident fugiat magna velit exercitation amet culpa mollit esse sunt veniam. Dolore voluptate occaecat non nisi. Voluptate sint mollit id esse. Ex veniam culpa dolor id Lorem dolor occaecat consequat.",
+      "public": false,
+      "tags": [
+        "aliqua",
+        "officia",
+        "pariatur",
+        "est",
+        "occaecat"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "4.2759",
+      "price": "$486.94",
+      "likes": 76,
+      "copies": 65,
+      "user": {
+        "first": "Marguerite",
+        "last": "Flowers"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Sunday, October 28, 2018 7:16 PM",
+      "endDate": "Wednesday, August 27, 2014 10:15 AM",
+      "activities": [
+        {
+          "title": "reprehenderit",
+          "date": "Saturday, May 6, 2017 6:58 AM",
+          "time": "Morning",
+          "priceRating": "0.32",
+          "price": "$151.06",
+          "description": "Lorem ea in minim ut elit do proident laboris. Duis ut mollit consectetur incididunt aliquip aliqua mollit consectetur duis consequat. Sint duis et adipisicing fugiat magna et nostrud veniam Lorem ipsum fugiat culpa. Magna magna ex occaecat commodo voluptate quis aliqua qui dolore qui dolor tempor consectetur sunt. Ea laboris deserunt eu laborum consectetur occaecat eiusmod non labore. Deserunt amet anim sunt dolore irure ea in sint. Ea in minim cupidatat occaecat id voluptate quis.",
+          "tags": [
+            "dolor",
+            "laboris",
+            "do",
+            "consequat",
+            "voluptate"
+          ],
+          "rating": "3.9272"
+        }
+      ],
+      "location": {
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc9f2c31436caa7ae2",
+      "favourite": true,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "reprehenderit",
+      "subtitle": "Magna ut aliquip aliquip ipsum nisi sint occaecat non aute ut sint ex incididunt dolore. Qui deserunt nisi duis nulla. Commodo commodo proident laboris ullamco eiusmod ut sit nisi do. Exercitation tempor ullamco minim ea amet enim nisi culpa occaecat adipisicing. Sunt cupidatat fugiat nulla dolore qui veniam ut consectetur. Ipsum irure do sunt anim culpa deserunt eu ut amet reprehenderit. Voluptate exercitation nostrud aliqua aliquip laboris cillum quis.",
+      "description": "Magna magna esse do velit in anim. Enim excepteur qui mollit excepteur ex esse dolor cillum nisi reprehenderit et veniam. Irure deserunt Lorem reprehenderit pariatur ut tempor velit dolore minim cillum. Sunt eiusmod esse proident enim in ad mollit. Lorem et enim consequat anim adipisicing. Reprehenderit officia id magna id anim nulla. Consectetur ad nostrud officia proident quis amet et.\n\nMagna commodo eu proident mollit proident labore exercitation Lorem anim voluptate deserunt id sit ullamco. Occaecat nulla laborum id excepteur magna exercitation sit deserunt magna. Consectetur id deserunt sunt nulla est esse veniam ipsum et non ipsum quis.",
+      "public": true,
+      "tags": [
+        "esse",
+        "excepteur",
+        "aliquip",
+        "in",
+        "cupidatat"
+      ],
+      "seasons": "Winter",
+      "priceRating": "2.4038",
+      "price": "$804.37",
+      "likes": 62,
+      "copies": 40,
+      "user": {
+        "first": "Lynnette",
+        "last": "Tillman"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": true,
+      "startDate": "Wednesday, October 29, 2014 11:36 PM",
+      "endDate": "Sunday, January 15, 2017 8:39 PM",
+      "activities": [
+        {
+          "title": "irure",
+          "date": "Wednesday, November 29, 2017 8:44 AM",
+          "time": "Morning",
+          "priceRating": "2.6599",
+          "price": "$752.30",
+          "description": "Eu est aliqua elit eu id ea in officia. Quis culpa laboris laboris incididunt non. Sunt occaecat ullamco qui esse exercitation sunt ex enim aliqua aliquip consequat irure aute mollit. Do aliqua fugiat ut fugiat sit laborum consectetur reprehenderit proident est reprehenderit. Aliqua reprehenderit aliquip proident irure fugiat. Dolor nostrud aliquip cillum incididunt magna nulla.",
+          "tags": [
+            "quis",
+            "qui",
+            "et",
+            "aute",
+            "mollit"
+          ],
+          "rating": "3.2061"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bceeef0bec4fe6a91c",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "cupidatat",
+      "subtitle": "Consectetur tempor aute adipisicing laboris ad amet do amet. Veniam sint proident ea culpa. Irure exercitation in veniam dolor dolor exercitation commodo consequat.",
+      "description": "Irure ut minim id consectetur. Commodo nisi aliquip consectetur labore qui nisi. Ex eiusmod anim consectetur enim. Cillum pariatur ad commodo occaecat velit esse ea pariatur duis fugiat. Magna ad aute ex voluptate aliqua ut exercitation culpa est dolor. Sit commodo consequat laboris fugiat.\n\nEt enim enim sit fugiat id nostrud ex Lorem aliquip. Adipisicing elit consectetur sit sunt. Laboris eu adipisicing veniam voluptate ea ullamco. Veniam nostrud fugiat aliquip laboris exercitation et commodo in. Cillum voluptate duis ea consequat culpa culpa.",
+      "public": false,
+      "tags": [
+        "aliquip",
+        "sint",
+        "laboris",
+        "consectetur",
+        "cupidatat"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "0.3672",
+      "price": "$338.38",
+      "likes": 82,
+      "copies": 60,
+      "user": {
+        "first": "Janelle",
+        "last": "King"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Saturday, September 24, 2016 5:05 PM",
+      "endDate": "Friday, May 26, 2017 7:22 PM",
+      "activities": [
+        {
+          "title": "consequat",
+          "date": "Wednesday, December 9, 2015 9:08 PM",
+          "time": "Night",
+          "priceRating": "0.4616",
+          "price": "$617.23",
+          "description": "Esse dolore nulla ullamco commodo aute adipisicing veniam ad ipsum et id non elit sunt. In dolore ullamco elit cupidatat occaecat elit tempor consectetur minim sunt. Proident officia enim qui eiusmod do quis.",
+          "tags": [
+            "eiusmod",
+            "esse",
+            "deserunt",
+            "commodo",
+            "ut"
+          ],
+          "rating": "3.1021"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc290852d5057d0751",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "aute",
+      "subtitle": "Minim et deserunt irure commodo consequat velit ut et mollit mollit. Nisi adipisicing culpa aliqua labore cillum. Reprehenderit reprehenderit eiusmod consequat aliquip. Reprehenderit cillum nostrud quis duis eu eu. Laboris proident incididunt nostrud nulla minim.",
+      "description": "Nostrud laboris occaecat ipsum veniam est ad laboris magna. Enim laborum duis fugiat nisi eu velit. Dolor ex adipisicing minim exercitation ex nisi Lorem. Commodo elit nisi culpa Lorem.\n\nMagna ut excepteur ex mollit nulla mollit magna. Excepteur aliquip enim occaecat nostrud. Excepteur exercitation ut consequat cupidatat sint laborum non reprehenderit incididunt. Ex laboris officia non veniam sunt. Nisi qui nisi aliquip ea tempor sit nisi ad laboris nostrud voluptate aute. Sint exercitation qui in minim consectetur eu deserunt do duis occaecat ea esse fugiat non. Cillum sunt officia non aliqua.",
+      "public": false,
+      "tags": [
+        "et",
+        "laborum",
+        "nisi",
+        "sunt",
+        "in"
+      ],
+      "seasons": "Summer",
+      "priceRating": "3.3554",
+      "price": "$812.64",
+      "likes": 64,
+      "copies": 44,
+      "user": {
+        "first": "Ware",
+        "last": "Austin"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Friday, August 12, 2016 2:09 AM",
+      "endDate": "Friday, July 25, 2014 3:46 AM",
+      "activities": [
+        {
+          "title": "id",
+          "date": "Wednesday, December 10, 2014 2:59 PM",
+          "time": "Morning",
+          "priceRating": "3.0373",
+          "price": "$440.77",
+          "description": "Irure elit aliquip eiusmod cupidatat irure cupidatat ad sint sint laborum nulla qui dolore cupidatat. Ea voluptate in eu ad dolor quis nisi do. Pariatur sunt dolore magna sunt exercitation consectetur ullamco incididunt ex consectetur nulla nostrud. Cupidatat exercitation nisi ullamco incididunt cupidatat. Amet amet esse pariatur reprehenderit ipsum occaecat excepteur non consequat quis laborum. Aliquip velit ad aute irure. In ut labore esse minim.",
+          "tags": [
+            "officia",
+            "nulla",
+            "occaecat",
+            "veniam",
+            "tempor"
+          ],
+          "rating": "1.3082"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bcff7947d5c967b2b9",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "nisi",
+      "subtitle": "Mollit id dolor ut ut laborum cillum duis nisi deserunt. Consectetur consequat dolore nostrud nostrud. Cupidatat laborum dolor officia nostrud aute sit Lorem reprehenderit velit elit enim laborum. Culpa commodo non non ea aliquip. Ad eiusmod duis proident amet ea tempor occaecat consequat Lorem.",
+      "description": "Consectetur incididunt nisi exercitation tempor ad amet commodo nulla sint officia est occaecat do officia. Eiusmod Lorem est dolor ut culpa. Laborum sunt adipisicing minim mollit.\n\nTempor aute enim et consectetur fugiat minim consectetur enim duis commodo eiusmod cupidatat ea. Occaecat consectetur eu qui reprehenderit esse Lorem. Velit mollit ad dolore dolore nisi labore commodo duis.",
+      "public": true,
+      "tags": [
+        "esse",
+        "enim",
+        "id",
+        "do",
+        "et"
+      ],
+      "seasons": "Winter",
+      "priceRating": "4.4085",
+      "price": "$375.28",
+      "likes": 81,
+      "copies": 67,
+      "user": {
+        "first": "Guy",
+        "last": "Potter"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Friday, May 25, 2018 1:28 PM",
+      "endDate": "Thursday, February 9, 2017 12:36 AM",
+      "activities": [
+        {
+          "title": "non",
+          "date": "Thursday, July 3, 2014 8:48 AM",
+          "time": "Morning",
+          "priceRating": "0.5512",
+          "price": "$284.82",
+          "description": "Et duis eiusmod tempor esse sit exercitation qui adipisicing dolore sunt. Nostrud ut ex est commodo qui incididunt sunt incididunt elit ea. Tempor cillum nostrud aute veniam adipisicing cupidatat. Consectetur anim incididunt incididunt dolor officia nisi ipsum eu incididunt proident eu nisi. Sint eu cupidatat est culpa consequat fugiat. Sunt Lorem dolore culpa aute. Lorem irure pariatur cillum reprehenderit nisi.",
+          "tags": [
+            "veniam",
+            "excepteur",
+            "qui",
+            "consectetur",
+            "pariatur"
+          ],
+          "rating": "2.4993"
+        }
+      ],
+      "location": {
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bccf3917fa0424aff5",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "voluptate",
+      "subtitle": "Quis ut incididunt velit ut laboris. Mollit adipisicing amet occaecat dolore irure ut ipsum. Commodo proident mollit nisi esse Lorem ipsum eu deserunt quis eu minim excepteur velit. Sint quis aliqua ad minim exercitation non minim veniam in cillum et voluptate sint aute. Minim enim in quis exercitation incididunt. Aliquip esse eu cillum ipsum est labore sunt sint consectetur velit dolore ut aliquip et.",
+      "description": "Esse mollit voluptate fugiat esse exercitation exercitation nulla cillum quis et veniam aliquip. Ea culpa quis ad voluptate consequat nulla laboris sunt irure aliqua qui reprehenderit ad. Laboris et laborum nisi adipisicing labore eu sunt esse amet cupidatat reprehenderit eiusmod. Lorem excepteur Lorem tempor elit aute laboris minim. Ad veniam occaecat aute ex non consectetur irure. Fugiat commodo ea tempor tempor dolor ad eu. Ut exercitation eu id incididunt ad eiusmod voluptate mollit fugiat excepteur nostrud cupidatat.\n\nAmet ipsum exercitation eiusmod enim ipsum consectetur id anim enim. Fugiat sit culpa sit pariatur fugiat nulla veniam commodo nisi deserunt. Consequat occaecat duis sint dolore veniam sit sunt qui. Amet enim occaecat labore consectetur occaecat et.",
+      "public": true,
+      "tags": [
+        "quis",
+        "irure",
+        "elit",
+        "duis",
+        "est"
+      ],
+      "seasons": "Spring",
+      "priceRating": "3.3974",
+      "price": "$126.27",
+      "likes": 58,
+      "copies": 43,
+      "user": {
+        "first": "Elisabeth",
+        "last": "Kramer"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Wednesday, March 7, 2018 9:20 AM",
+      "endDate": "Saturday, September 24, 2016 6:42 AM",
+      "activities": [
+        {
+          "title": "mollit",
+          "date": "Thursday, October 30, 2014 3:35 AM",
+          "time": "Night",
+          "priceRating": "2.9653",
+          "price": "$914.38",
+          "description": "Officia mollit consequat et ad occaecat nostrud veniam eu nulla do dolore esse anim commodo. Officia tempor nostrud laboris magna sint irure aute dolor magna nulla. Mollit consequat aliquip sint ea sint laborum elit voluptate duis. Do magna consequat ex dolor minim ad ullamco ut non velit nostrud duis mollit.",
+          "tags": [
+            "laboris",
+            "id",
+            "dolor",
+            "cupidatat",
+            "fugiat"
+          ],
+          "rating": "3.1858"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc38b498607c9211d4",
+      "favourite": false,
+      "like": false,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "eu",
+      "subtitle": "Sit esse nulla cupidatat excepteur veniam commodo nulla ad et et. Irure occaecat nostrud culpa ullamco sit. Aliquip anim culpa esse mollit. Deserunt pariatur irure et non non ut qui do tempor ut aute. Anim aute aliqua mollit ex id enim sit fugiat commodo veniam eiusmod qui qui. Ex ea in quis dolor minim est.",
+      "description": "Excepteur enim dolore labore ut ea velit. Eiusmod ad sit voluptate veniam fugiat tempor irure exercitation laborum veniam magna reprehenderit esse cillum. Nisi ipsum aliquip amet excepteur aliquip velit occaecat non culpa aliquip.\n\nUt veniam minim ad adipisicing mollit incididunt exercitation elit consectetur nostrud. Aliquip irure aliquip consequat duis officia eu. Id pariatur dolore reprehenderit mollit irure quis nostrud.",
+      "public": true,
+      "tags": [
+        "reprehenderit",
+        "consequat",
+        "sunt",
+        "Lorem",
+        "proident"
+      ],
+      "seasons": "Summer",
+      "priceRating": "4.6124",
+      "price": "$988.39",
+      "likes": 51,
+      "copies": 46,
+      "user": {
+        "first": "Concepcion",
+        "last": "Knapp"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": false,
+      "startDate": "Saturday, May 13, 2017 1:23 PM",
+      "endDate": "Sunday, February 22, 2015 4:49 AM",
+      "activities": [
+        {
+          "title": "non",
+          "date": "Monday, March 28, 2016 9:02 PM",
+          "time": "Night",
+          "priceRating": "2.0134",
+          "price": "$698.72",
+          "description": "Quis enim sint mollit officia anim. Ea consectetur ullamco laborum in elit occaecat nisi. Magna et pariatur nostrud sit velit nisi velit cillum incididunt irure enim aliqua.",
+          "tags": [
+            "amet",
+            "excepteur",
+            "ex",
+            "magna",
+            "incididunt"
+          ],
+          "rating": "0.6943"
+        }
+      ],
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bcc188581f53245270",
+      "favourite": false,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "consequat",
+      "subtitle": "Eu qui sit consequat fugiat non aute enim eu. Cupidatat ad voluptate eiusmod amet. Nisi ad commodo amet nostrud amet est aliquip culpa est fugiat adipisicing esse amet deserunt. Consectetur sit eiusmod non labore. Et nulla et duis aute duis irure cillum est esse. Proident aliqua veniam dolor sunt sit. Exercitation exercitation amet occaecat incididunt veniam adipisicing voluptate ex eu aliqua duis aliqua nostrud.",
+      "description": "Dolor ex consectetur aliqua culpa id anim aliquip exercitation. Fugiat aliquip sint adipisicing mollit veniam ex dolor culpa incididunt amet tempor. Laboris ut sint occaecat nisi culpa exercitation cillum nulla cupidatat dolore deserunt occaecat. Minim labore qui excepteur culpa.\n\nQuis reprehenderit laborum occaecat ullamco incididunt nisi quis aliqua sint. Ex labore eu eiusmod excepteur amet ex mollit sint. Et pariatur eu nisi adipisicing in laborum commodo adipisicing. Dolor voluptate labore ut aliquip ad nostrud culpa mollit aliqua velit. Sunt aliquip ad eu ex. Sint sunt cillum ipsum dolor irure in non nostrud tempor id laboris.",
+      "public": false,
+      "tags": [
+        "do",
+        "ad",
+        "adipisicing",
+        "laborum",
+        "ex"
+      ],
+      "seasons": "Spring",
+      "priceRating": "4.0439",
+      "price": "$513.33",
+      "likes": 85,
+      "copies": 60,
+      "user": {
+        "first": "Jillian",
+        "last": "Vance"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Reknow",
+      "done": false,
+      "startDate": "Sunday, September 13, 2015 11:24 AM",
+      "endDate": "Wednesday, November 19, 2014 7:15 AM",
+      "activities": [
+        {
+          "title": "consequat",
+          "date": "Sunday, September 27, 2015 1:42 PM",
+          "time": "Night",
+          "priceRating": "3.6311",
+          "price": "$779.90",
+          "description": "Anim laborum voluptate consectetur esse adipisicing velit proident est labore id sunt nisi. Id sint in occaecat ad tempor officia nisi nisi proident proident. Pariatur anim ad veniam minim nostrud minim consectetur duis fugiat. Voluptate cupidatat dolore sit cillum ex irure ut magna velit fugiat duis. Eiusmod adipisicing amet laborum nostrud mollit fugiat aliqua aliquip. Reprehenderit cupidatat dolor cupidatat amet in eiusmod Lorem qui.",
+          "tags": [
+            "laborum",
+            "velit",
+            "nulla",
+            "ullamco",
+            "cupidatat"
+          ],
+          "rating": "1.6083"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "id": "5c17a4bc5d97ac4e95a3f009",
+      "favourite": true,
+      "like": true,
+      "imgPath": "https://via.placeholder.com/240",
+      "title": "ex",
+      "subtitle": "Dolor nisi nulla veniam duis duis consectetur nisi consequat anim id deserunt. Eiusmod magna mollit in laborum. Eu cillum mollit est sunt aliquip minim. Est id commodo magna est mollit consequat laborum officia proident. Tempor commodo deserunt ipsum incididunt consectetur veniam sint non labore in veniam non aliquip.",
+      "description": "Excepteur eiusmod ea ipsum deserunt mollit reprehenderit deserunt dolor mollit sint esse id commodo nostrud. Excepteur reprehenderit amet ex ipsum nulla labore officia magna quis. Enim laborum do et dolor do dolore. Enim dolore consequat enim reprehenderit do aliquip irure sint aliquip reprehenderit.\n\nAd cupidatat elit occaecat adipisicing incididunt et sunt nostrud sunt ipsum consequat sunt. Esse elit commodo deserunt ut duis veniam velit laboris tempor. Magna occaecat consequat sit magna mollit minim aliqua amet culpa eiusmod cillum amet aliquip laboris. Tempor aliqua reprehenderit id non commodo. Officia sint nisi in mollit irure dolore sit aliqua incididunt. Aliquip commodo amet aliquip proident.",
+      "public": true,
+      "tags": [
+        "velit",
+        "aliqua",
+        "anim",
+        "nisi",
+        "veniam"
+      ],
+      "seasons": "Autumn",
+      "priceRating": "1.5067",
+      "price": "$928.74",
+      "likes": 75,
+      "copies": 34,
+      "user": {
+        "first": "Rich",
+        "last": "Newman"
+      },
+      "avatarImgUrl": "http://placehold.it/30x30",
+      "userStatus": "Know",
+      "done": true,
+      "startDate": "Monday, November 10, 2014 1:41 PM",
+      "endDate": "Thursday, June 18, 2015 3:23 PM",
+      "activities": [
+        {
+          "title": "excepteur",
+          "date": "Friday, July 22, 2016 9:02 AM",
+          "time": "Afternoon",
+          "priceRating": "1.9951",
+          "price": "$921.95",
+          "description": "Aliqua do veniam dolor veniam proident laborum ipsum deserunt voluptate ut deserunt incididunt aute. Dolore ullamco labore laborum consectetur aliquip laborum et cillum excepteur. Et officia ad do labore aliqua esse aliquip commodo ad dolore ea ullamco voluptate elit. Occaecat dolor incididunt consectetur tempor tempor quis laborum do tempor qui exercitation. Id ad tempor in ea magna.",
+          "tags": [
+            "et",
+            "magna",
+            "esse",
+            "nostrud",
+            "deserunt"
+          ],
+          "rating": "1.8902"
+        }
+      ],
+      "location": {
+        "city": "Granada",
+        "country": "Spain"
+      }
+    }
+  ],
+  "locations": [
+    {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "city": "Sevilla",
+      "country": "Spain"
+    },
+    {
+      "city": "Granada",
+      "country": "Spain"
+    },
+    {
+      "city": "Vigo",
+      "country": "Spain"
+    }
+  ]
+}
